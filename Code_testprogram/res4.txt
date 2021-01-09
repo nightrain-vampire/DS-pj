@@ -1,0 +1,400 @@
+Test case1: 
+LinearTable: 52
+deque: 2583
+
+Test case2: 
+LinearTable: 56
+deque: 2568
+
+Test case3: 
+LinearTable: 53
+deque: 2575
+
+Test case4: 
+LinearTable: 53
+deque: 2578
+
+Test case5: 
+LinearTable: 52
+deque: 2576
+
+Test case6: 
+LinearTable: 53
+deque: 2629
+
+Test case7: 
+LinearTable: 50
+deque: 2614
+
+Test case8: 
+LinearTable: 52
+deque: 2558
+
+Test case9: 
+LinearTable: 53
+deque: 2614
+
+Test case10: 
+LinearTable: 54
+deque: 2624
+
+Test case11: 
+LinearTable: 54
+deque: 2560
+
+Test case12: 
+LinearTable: 54
+deque: 2562
+
+Test case13: 
+LinearTable: 49
+deque: 2558
+
+Test case14: 
+LinearTable: 53
+deque: 2590
+
+Test case15: 
+LinearTable: 53
+deque: 2551
+
+Test case16: 
+LinearTable: 53
+deque: 2591
+
+Test case17: 
+LinearTable: 51
+deque: 2575
+
+Test case18: 
+LinearTable: 49
+deque: 2564
+
+Test case19: 
+LinearTable: 57
+deque: 2577
+
+Test case20: 
+LinearTable: 52
+deque: 2563
+
+Test case21: 
+LinearTable: 51
+deque: 2559
+
+Test case22: 
+LinearTable: 56
+deque: 2599
+
+Test case23: 
+LinearTable: 52
+deque: 2615
+
+Test case24: 
+LinearTable: 54
+deque: 2604
+
+Test case25: 
+LinearTable: 50
+deque: 2598
+
+Test case26: 
+LinearTable: 53
+deque: 2578
+
+Test case27: 
+LinearTable: 56
+deque: 2566
+
+Test case28: 
+LinearTable: 55
+deque: 2628
+
+Test case29: 
+LinearTable: 57
+deque: 2656
+
+Test case30: 
+LinearTable: 51
+deque: 2586
+
+Test case31: 
+LinearTable: 48
+deque: 2553
+
+Test case32: 
+LinearTable: 50
+deque: 2550
+
+Test case33: 
+LinearTable: 52
+deque: 2569
+
+Test case34: 
+LinearTable: 56
+deque: 2589
+
+Test case35: 
+LinearTable: 56
+deque: 2605
+
+Test case36: 
+LinearTable: 53
+deque: 2596
+
+Test case37: 
+LinearTable: 50
+deque: 2602
+
+Test case38: 
+LinearTable: 52
+deque: 2551
+
+Test case39: 
+LinearTable: 51
+deque: 2592
+
+Test case40: 
+LinearTable: 54
+deque: 2561
+
+Test case41: 
+LinearTable: 52
+deque: 2553
+
+Test case42: 
+LinearTable: 55
+deque: 2581
+
+Test case43: 
+LinearTable: 52
+deque: 2589
+
+Test case44: 
+LinearTable: 49
+deque: 2562
+
+Test case45: 
+LinearTable: 50
+deque: 2559
+
+Test case46: 
+LinearTable: 52
+deque: 2582
+
+Test case47: 
+LinearTable: 51
+deque: 2586
+
+Test case48: 
+LinearTable: 51
+deque: 2595
+
+Test case49: 
+LinearTable: 52
+deque: 2615
+
+Test case50: 
+LinearTable: 51
+deque: 2608
+
+Test case51: 
+LinearTable: 52
+deque: 2598
+
+Test case52: 
+LinearTable: 55
+deque: 2563
+
+Test case53: 
+LinearTable: 53
+deque: 2577
+
+Test case54: 
+LinearTable: 55
+deque: 2577
+
+Test case55: 
+LinearTable: 54
+deque: 2596
+
+Test case56: 
+LinearTable: 50
+deque: 2569
+
+Test case57: 
+LinearTable: 50
+deque: 2556
+
+Test case58: 
+LinearTable: 53
+deque: 2616
+
+Test case59: 
+LinearTable: 48
+deque: 2634
+
+Test case60: 
+LinearTable: 54
+deque: 2558
+
+Test case61: 
+LinearTable: 54
+deque: 2557
+
+Test case62: 
+LinearTable: 51
+deque: 2626
+
+Test case63: 
+LinearTable: 51
+deque: 2590
+
+Test case64: 
+LinearTable: 51
+deque: 2566
+
+Test case65: 
+LinearTable: 52
+deque: 2600
+
+Test case66: 
+LinearTable: 49
+deque: 2570
+
+Test case67: 
+LinearTable: 53
+deque: 2577
+
+Test case68: 
+LinearTable: 51
+deque: 2562
+
+Test case69: 
+LinearTable: 51
+deque: 2627
+
+Test case70: 
+LinearTable: 53
+deque: 2629
+
+Test case71: 
+LinearTable: 54
+deque: 2589
+
+Test case72: 
+LinearTable: 55
+deque: 2606
+
+Test case73: 
+LinearTable: 54
+deque: 2564
+
+Test case74: 
+LinearTable: 53
+deque: 2607
+
+Test case75: 
+LinearTable: 53
+deque: 2632
+
+Test case76: 
+LinearTable: 51
+deque: 2611
+
+Test case77: 
+LinearTable: 53
+deque: 2572
+
+Test case78: 
+LinearTable: 50
+deque: 2587
+
+Test case79: 
+LinearTable: 52
+deque: 2614
+
+Test case80: 
+LinearTable: 50
+deque: 2559
+
+Test case81: 
+LinearTable: 52
+deque: 2592
+
+Test case82: 
+LinearTable: 56
+deque: 2601
+
+Test case83: 
+LinearTable: 53
+deque: 2595
+
+Test case84: 
+LinearTable: 53
+deque: 2564
+
+Test case85: 
+LinearTable: 53
+deque: 2604
+
+Test case86: 
+LinearTable: 53
+deque: 2623
+
+Test case87: 
+LinearTable: 50
+deque: 2628
+
+Test case88: 
+LinearTable: 55
+deque: 2628
+
+Test case89: 
+LinearTable: 51
+deque: 2560
+
+Test case90: 
+LinearTable: 49
+deque: 3774
+
+Test case91: 
+LinearTable: 75
+deque: 3533
+
+Test case92: 
+LinearTable: 70
+deque: 3207
+
+Test case93: 
+LinearTable: 60
+deque: 3190
+
+Test case94: 
+LinearTable: 64
+deque: 3019
+
+Test case95: 
+LinearTable: 73
+deque: 3114
+
+Test case96: 
+LinearTable: 63
+deque: 3048
+
+Test case97: 
+LinearTable: 55
+deque: 3096
+
+Test case98: 
+LinearTable: 62
+deque: 3211
+
+Test case99: 
+LinearTable: 63
+deque: 3229
+
+Test case100: 
+LinearTable: 55
+deque: 2983
+

@@ -1,0 +1,700 @@
+Test case1: 
+multiset: 61
+LinearTable: 37
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 47
+
+Test case2: 
+multiset: 56
+LinearTable: 35
+priority_queue: 10
+deque (push_back): 2
+deque (sort): 47
+
+Test case3: 
+multiset: 55
+LinearTable: 35
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 47
+
+Test case4: 
+multiset: 57
+LinearTable: 35
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 48
+
+Test case5: 
+multiset: 57
+LinearTable: 35
+priority_queue: 10
+deque (push_back): 1
+deque (sort): 47
+
+Test case6: 
+multiset: 56
+LinearTable: 35
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 48
+
+Test case7: 
+multiset: 55
+LinearTable: 37
+priority_queue: 10
+deque (push_back): 2
+deque (sort): 46
+
+Test case8: 
+multiset: 56
+LinearTable: 35
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 48
+
+Test case9: 
+multiset: 69
+LinearTable: 44
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 49
+
+Test case10: 
+multiset: 56
+LinearTable: 35
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 48
+
+Test case11: 
+multiset: 57
+LinearTable: 35
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 48
+
+Test case12: 
+multiset: 56
+LinearTable: 38
+priority_queue: 10
+deque (push_back): 2
+deque (sort): 48
+
+Test case13: 
+multiset: 56
+LinearTable: 35
+priority_queue: 10
+deque (push_back): 2
+deque (sort): 46
+
+Test case14: 
+multiset: 57
+LinearTable: 35
+priority_queue: 10
+deque (push_back): 2
+deque (sort): 47
+
+Test case15: 
+multiset: 55
+LinearTable: 36
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 47
+
+Test case16: 
+multiset: 59
+LinearTable: 35
+priority_queue: 10
+deque (push_back): 1
+deque (sort): 48
+
+Test case17: 
+multiset: 57
+LinearTable: 34
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 47
+
+Test case18: 
+multiset: 55
+LinearTable: 37
+priority_queue: 10
+deque (push_back): 2
+deque (sort): 46
+
+Test case19: 
+multiset: 55
+LinearTable: 34
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 47
+
+Test case20: 
+multiset: 54
+LinearTable: 36
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 47
+
+Test case21: 
+multiset: 60
+LinearTable: 35
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 46
+
+Test case22: 
+multiset: 56
+LinearTable: 35
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 48
+
+Test case23: 
+multiset: 56
+LinearTable: 35
+priority_queue: 10
+deque (push_back): 1
+deque (sort): 48
+
+Test case24: 
+multiset: 57
+LinearTable: 35
+priority_queue: 10
+deque (push_back): 1
+deque (sort): 48
+
+Test case25: 
+multiset: 61
+LinearTable: 35
+priority_queue: 10
+deque (push_back): 1
+deque (sort): 48
+
+Test case26: 
+multiset: 56
+LinearTable: 34
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 47
+
+Test case27: 
+multiset: 56
+LinearTable: 35
+priority_queue: 10
+deque (push_back): 1
+deque (sort): 48
+
+Test case28: 
+multiset: 56
+LinearTable: 35
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 47
+
+Test case29: 
+multiset: 56
+LinearTable: 35
+priority_queue: 10
+deque (push_back): 1
+deque (sort): 47
+
+Test case30: 
+multiset: 56
+LinearTable: 43
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 48
+
+Test case31: 
+multiset: 60
+LinearTable: 35
+priority_queue: 10
+deque (push_back): 2
+deque (sort): 48
+
+Test case32: 
+multiset: 70
+LinearTable: 38
+priority_queue: 10
+deque (push_back): 1
+deque (sort): 48
+
+Test case33: 
+multiset: 57
+LinearTable: 38
+priority_queue: 10
+deque (push_back): 2
+deque (sort): 47
+
+Test case34: 
+multiset: 60
+LinearTable: 36
+priority_queue: 10
+deque (push_back): 1
+deque (sort): 47
+
+Test case35: 
+multiset: 63
+LinearTable: 35
+priority_queue: 10
+deque (push_back): 1
+deque (sort): 47
+
+Test case36: 
+multiset: 57
+LinearTable: 37
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 47
+
+Test case37: 
+multiset: 57
+LinearTable: 39
+priority_queue: 10
+deque (push_back): 2
+deque (sort): 47
+
+Test case38: 
+multiset: 58
+LinearTable: 35
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 47
+
+Test case39: 
+multiset: 56
+LinearTable: 35
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 47
+
+Test case40: 
+multiset: 57
+LinearTable: 34
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 46
+
+Test case41: 
+multiset: 56
+LinearTable: 36
+priority_queue: 10
+deque (push_back): 2
+deque (sort): 46
+
+Test case42: 
+multiset: 55
+LinearTable: 38
+priority_queue: 10
+deque (push_back): 1
+deque (sort): 48
+
+Test case43: 
+multiset: 66
+LinearTable: 35
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 47
+
+Test case44: 
+multiset: 56
+LinearTable: 35
+priority_queue: 10
+deque (push_back): 2
+deque (sort): 47
+
+Test case45: 
+multiset: 57
+LinearTable: 35
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 48
+
+Test case46: 
+multiset: 56
+LinearTable: 35
+priority_queue: 10
+deque (push_back): 2
+deque (sort): 48
+
+Test case47: 
+multiset: 57
+LinearTable: 35
+priority_queue: 10
+deque (push_back): 2
+deque (sort): 48
+
+Test case48: 
+multiset: 56
+LinearTable: 35
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 47
+
+Test case49: 
+multiset: 56
+LinearTable: 35
+priority_queue: 10
+deque (push_back): 2
+deque (sort): 48
+
+Test case50: 
+multiset: 55
+LinearTable: 35
+priority_queue: 10
+deque (push_back): 1
+deque (sort): 48
+
+Test case51: 
+multiset: 56
+LinearTable: 35
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 47
+
+Test case52: 
+multiset: 58
+LinearTable: 34
+priority_queue: 10
+deque (push_back): 1
+deque (sort): 47
+
+Test case53: 
+multiset: 57
+LinearTable: 33
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 47
+
+Test case54: 
+multiset: 58
+LinearTable: 36
+priority_queue: 10
+deque (push_back): 2
+deque (sort): 47
+
+Test case55: 
+multiset: 58
+LinearTable: 35
+priority_queue: 10
+deque (push_back): 2
+deque (sort): 47
+
+Test case56: 
+multiset: 55
+LinearTable: 34
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 47
+
+Test case57: 
+multiset: 56
+LinearTable: 35
+priority_queue: 10
+deque (push_back): 1
+deque (sort): 48
+
+Test case58: 
+multiset: 55
+LinearTable: 35
+priority_queue: 10
+deque (push_back): 1
+deque (sort): 48
+
+Test case59: 
+multiset: 57
+LinearTable: 34
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 48
+
+Test case60: 
+multiset: 56
+LinearTable: 34
+priority_queue: 10
+deque (push_back): 1
+deque (sort): 47
+
+Test case61: 
+multiset: 58
+LinearTable: 34
+priority_queue: 10
+deque (push_back): 2
+deque (sort): 47
+
+Test case62: 
+multiset: 57
+LinearTable: 35
+priority_queue: 10
+deque (push_back): 2
+deque (sort): 47
+
+Test case63: 
+multiset: 56
+LinearTable: 37
+priority_queue: 10
+deque (push_back): 1
+deque (sort): 47
+
+Test case64: 
+multiset: 56
+LinearTable: 35
+priority_queue: 10
+deque (push_back): 1
+deque (sort): 47
+
+Test case65: 
+multiset: 56
+LinearTable: 36
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 48
+
+Test case66: 
+multiset: 58
+LinearTable: 35
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 47
+
+Test case67: 
+multiset: 57
+LinearTable: 35
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 46
+
+Test case68: 
+multiset: 59
+LinearTable: 35
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 47
+
+Test case69: 
+multiset: 55
+LinearTable: 35
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 47
+
+Test case70: 
+multiset: 58
+LinearTable: 43
+priority_queue: 10
+deque (push_back): 1
+deque (sort): 48
+
+Test case71: 
+multiset: 65
+LinearTable: 44
+priority_queue: 10
+deque (push_back): 1
+deque (sort): 47
+
+Test case72: 
+multiset: 61
+LinearTable: 35
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 47
+
+Test case73: 
+multiset: 57
+LinearTable: 35
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 48
+
+Test case74: 
+multiset: 56
+LinearTable: 36
+priority_queue: 10
+deque (push_back): 2
+deque (sort): 47
+
+Test case75: 
+multiset: 57
+LinearTable: 34
+priority_queue: 10
+deque (push_back): 2
+deque (sort): 47
+
+Test case76: 
+multiset: 59
+LinearTable: 35
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 47
+
+Test case77: 
+multiset: 56
+LinearTable: 35
+priority_queue: 10
+deque (push_back): 2
+deque (sort): 47
+
+Test case78: 
+multiset: 57
+LinearTable: 34
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 46
+
+Test case79: 
+multiset: 58
+LinearTable: 34
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 47
+
+Test case80: 
+multiset: 55
+LinearTable: 34
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 47
+
+Test case81: 
+multiset: 56
+LinearTable: 36
+priority_queue: 10
+deque (push_back): 1
+deque (sort): 49
+
+Test case82: 
+multiset: 57
+LinearTable: 36
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 48
+
+Test case83: 
+multiset: 57
+LinearTable: 36
+priority_queue: 9
+deque (push_back): 2
+deque (sort): 48
+
+Test case84: 
+multiset: 56
+LinearTable: 35
+priority_queue: 10
+deque (push_back): 2
+deque (sort): 48
+
+Test case85: 
+multiset: 60
+LinearTable: 40
+priority_queue: 10
+deque (push_back): 2
+deque (sort): 47
+
+Test case86: 
+multiset: 57
+LinearTable: 35
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 46
+
+Test case87: 
+multiset: 66
+LinearTable: 38
+priority_queue: 10
+deque (push_back): 2
+deque (sort): 47
+
+Test case88: 
+multiset: 56
+LinearTable: 36
+priority_queue: 10
+deque (push_back): 2
+deque (sort): 47
+
+Test case89: 
+multiset: 60
+LinearTable: 36
+priority_queue: 10
+deque (push_back): 2
+deque (sort): 47
+
+Test case90: 
+multiset: 57
+LinearTable: 36
+priority_queue: 10
+deque (push_back): 1
+deque (sort): 47
+
+Test case91: 
+multiset: 56
+LinearTable: 34
+priority_queue: 10
+deque (push_back): 2
+deque (sort): 47
+
+Test case92: 
+multiset: 58
+LinearTable: 34
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 47
+
+Test case93: 
+multiset: 56
+LinearTable: 35
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 47
+
+Test case94: 
+multiset: 58
+LinearTable: 34
+priority_queue: 10
+deque (push_back): 2
+deque (sort): 47
+
+Test case95: 
+multiset: 57
+LinearTable: 35
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 47
+
+Test case96: 
+multiset: 56
+LinearTable: 35
+priority_queue: 10
+deque (push_back): 2
+deque (sort): 47
+
+Test case97: 
+multiset: 57
+LinearTable: 37
+priority_queue: 10
+deque (push_back): 1
+deque (sort): 46
+
+Test case98: 
+multiset: 57
+LinearTable: 34
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 48
+
+Test case99: 
+multiset: 65
+LinearTable: 37
+priority_queue: 10
+deque (push_back): 1
+deque (sort): 48
+
+Test case100: 
+multiset: 57
+LinearTable: 35
+priority_queue: 11
+deque (push_back): 1
+deque (sort): 48
+

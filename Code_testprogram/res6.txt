@@ -1,0 +1,300 @@
+Test case1: 
+LinearTable: 66
+
+Test case2: 
+LinearTable: 66
+
+Test case3: 
+LinearTable: 67
+
+Test case4: 
+LinearTable: 66
+
+Test case5: 
+LinearTable: 66
+
+Test case6: 
+LinearTable: 67
+
+Test case7: 
+LinearTable: 66
+
+Test case8: 
+LinearTable: 66
+
+Test case9: 
+LinearTable: 65
+
+Test case10: 
+LinearTable: 67
+
+Test case11: 
+LinearTable: 67
+
+Test case12: 
+LinearTable: 66
+
+Test case13: 
+LinearTable: 65
+
+Test case14: 
+LinearTable: 65
+
+Test case15: 
+LinearTable: 65
+
+Test case16: 
+LinearTable: 64
+
+Test case17: 
+LinearTable: 66
+
+Test case18: 
+LinearTable: 66
+
+Test case19: 
+LinearTable: 67
+
+Test case20: 
+LinearTable: 65
+
+Test case21: 
+LinearTable: 66
+
+Test case22: 
+LinearTable: 67
+
+Test case23: 
+LinearTable: 67
+
+Test case24: 
+LinearTable: 67
+
+Test case25: 
+LinearTable: 66
+
+Test case26: 
+LinearTable: 67
+
+Test case27: 
+LinearTable: 68
+
+Test case28: 
+LinearTable: 66
+
+Test case29: 
+LinearTable: 66
+
+Test case30: 
+LinearTable: 66
+
+Test case31: 
+LinearTable: 65
+
+Test case32: 
+LinearTable: 67
+
+Test case33: 
+LinearTable: 66
+
+Test case34: 
+LinearTable: 67
+
+Test case35: 
+LinearTable: 65
+
+Test case36: 
+LinearTable: 66
+
+Test case37: 
+LinearTable: 66
+
+Test case38: 
+LinearTable: 67
+
+Test case39: 
+LinearTable: 65
+
+Test case40: 
+LinearTable: 65
+
+Test case41: 
+LinearTable: 63
+
+Test case42: 
+LinearTable: 65
+
+Test case43: 
+LinearTable: 67
+
+Test case44: 
+LinearTable: 66
+
+Test case45: 
+LinearTable: 66
+
+Test case46: 
+LinearTable: 66
+
+Test case47: 
+LinearTable: 66
+
+Test case48: 
+LinearTable: 65
+
+Test case49: 
+LinearTable: 67
+
+Test case50: 
+LinearTable: 65
+
+Test case51: 
+LinearTable: 65
+
+Test case52: 
+LinearTable: 64
+
+Test case53: 
+LinearTable: 65
+
+Test case54: 
+LinearTable: 64
+
+Test case55: 
+LinearTable: 65
+
+Test case56: 
+LinearTable: 66
+
+Test case57: 
+LinearTable: 65
+
+Test case58: 
+LinearTable: 65
+
+Test case59: 
+LinearTable: 64
+
+Test case60: 
+LinearTable: 66
+
+Test case61: 
+LinearTable: 65
+
+Test case62: 
+LinearTable: 64
+
+Test case63: 
+LinearTable: 66
+
+Test case64: 
+LinearTable: 66
+
+Test case65: 
+LinearTable: 64
+
+Test case66: 
+LinearTable: 64
+
+Test case67: 
+LinearTable: 64
+
+Test case68: 
+LinearTable: 65
+
+Test case69: 
+LinearTable: 66
+
+Test case70: 
+LinearTable: 64
+
+Test case71: 
+LinearTable: 64
+
+Test case72: 
+LinearTable: 65
+
+Test case73: 
+LinearTable: 65
+
+Test case74: 
+LinearTable: 65
+
+Test case75: 
+LinearTable: 65
+
+Test case76: 
+LinearTable: 65
+
+Test case77: 
+LinearTable: 64
+
+Test case78: 
+LinearTable: 65
+
+Test case79: 
+LinearTable: 65
+
+Test case80: 
+LinearTable: 66
+
+Test case81: 
+LinearTable: 64
+
+Test case82: 
+LinearTable: 63
+
+Test case83: 
+LinearTable: 65
+
+Test case84: 
+LinearTable: 64
+
+Test case85: 
+LinearTable: 65
+
+Test case86: 
+LinearTable: 65
+
+Test case87: 
+LinearTable: 65
+
+Test case88: 
+LinearTable: 64
+
+Test case89: 
+LinearTable: 63
+
+Test case90: 
+LinearTable: 66
+
+Test case91: 
+LinearTable: 65
+
+Test case92: 
+LinearTable: 65
+
+Test case93: 
+LinearTable: 65
+
+Test case94: 
+LinearTable: 66
+
+Test case95: 
+LinearTable: 64
+
+Test case96: 
+LinearTable: 63
+
+Test case97: 
+LinearTable: 66
+
+Test case98: 
+LinearTable: 65
+
+Test case99: 
+LinearTable: 64
+
+Test case100: 
+LinearTable: 64
+

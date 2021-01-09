@@ -1,0 +1,4000 @@
+Test case1: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case2: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case3: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case4: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case5: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case6: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case7: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case8: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case9: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case10: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case11: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case12: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case13: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case14: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case15: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case16: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case17: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case18: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case19: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case20: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case21: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case22: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case23: 
+LinearTable[]: 24
+deque[]: 5
+
+Test case24: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case25: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case26: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case27: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case28: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case29: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case30: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case31: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case32: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case33: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case34: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case35: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case36: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case37: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case38: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case39: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case40: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case41: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case42: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case43: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case44: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case45: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case46: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case47: 
+LinearTable[]: 23
+deque[]: 6
+
+Test case48: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case49: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case50: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case51: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case52: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case53: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case54: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case55: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case56: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case57: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case58: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case59: 
+LinearTable[]: 23
+deque[]: 6
+
+Test case60: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case61: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case62: 
+LinearTable[]: 25
+deque[]: 7
+
+Test case63: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case64: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case65: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case66: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case67: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case68: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case69: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case70: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case71: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case72: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case73: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case74: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case75: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case76: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case77: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case78: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case79: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case80: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case81: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case82: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case83: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case84: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case85: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case86: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case87: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case88: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case89: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case90: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case91: 
+LinearTable[]: 25
+deque[]: 7
+
+Test case92: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case93: 
+LinearTable[]: 25
+deque[]: 5
+
+Test case94: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case95: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case96: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case97: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case98: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case99: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case100: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case101: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case102: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case103: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case104: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case105: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case106: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case107: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case108: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case109: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case110: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case111: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case112: 
+LinearTable[]: 25
+deque[]: 7
+
+Test case113: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case114: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case115: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case116: 
+LinearTable[]: 24
+deque[]: 5
+
+Test case117: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case118: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case119: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case120: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case121: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case122: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case123: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case124: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case125: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case126: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case127: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case128: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case129: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case130: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case131: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case132: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case133: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case134: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case135: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case136: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case137: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case138: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case139: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case140: 
+LinearTable[]: 23
+deque[]: 6
+
+Test case141: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case142: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case143: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case144: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case145: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case146: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case147: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case148: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case149: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case150: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case151: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case152: 
+LinearTable[]: 23
+deque[]: 6
+
+Test case153: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case154: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case155: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case156: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case157: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case158: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case159: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case160: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case161: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case162: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case163: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case164: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case165: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case166: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case167: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case168: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case169: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case170: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case171: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case172: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case173: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case174: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case175: 
+LinearTable[]: 23
+deque[]: 7
+
+Test case176: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case177: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case178: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case179: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case180: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case181: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case182: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case183: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case184: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case185: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case186: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case187: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case188: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case189: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case190: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case191: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case192: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case193: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case194: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case195: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case196: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case197: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case198: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case199: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case200: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case201: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case202: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case203: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case204: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case205: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case206: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case207: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case208: 
+LinearTable[]: 26
+deque[]: 6
+
+Test case209: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case210: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case211: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case212: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case213: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case214: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case215: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case216: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case217: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case218: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case219: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case220: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case221: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case222: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case223: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case224: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case225: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case226: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case227: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case228: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case229: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case230: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case231: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case232: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case233: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case234: 
+LinearTable[]: 25
+deque[]: 7
+
+Test case235: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case236: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case237: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case238: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case239: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case240: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case241: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case242: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case243: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case244: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case245: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case246: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case247: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case248: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case249: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case250: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case251: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case252: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case253: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case254: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case255: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case256: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case257: 
+LinearTable[]: 23
+deque[]: 7
+
+Test case258: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case259: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case260: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case261: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case262: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case263: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case264: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case265: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case266: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case267: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case268: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case269: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case270: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case271: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case272: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case273: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case274: 
+LinearTable[]: 26
+deque[]: 6
+
+Test case275: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case276: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case277: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case278: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case279: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case280: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case281: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case282: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case283: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case284: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case285: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case286: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case287: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case288: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case289: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case290: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case291: 
+LinearTable[]: 25
+deque[]: 5
+
+Test case292: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case293: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case294: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case295: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case296: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case297: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case298: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case299: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case300: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case301: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case302: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case303: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case304: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case305: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case306: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case307: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case308: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case309: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case310: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case311: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case312: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case313: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case314: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case315: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case316: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case317: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case318: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case319: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case320: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case321: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case322: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case323: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case324: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case325: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case326: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case327: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case328: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case329: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case330: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case331: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case332: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case333: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case334: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case335: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case336: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case337: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case338: 
+LinearTable[]: 23
+deque[]: 7
+
+Test case339: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case340: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case341: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case342: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case343: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case344: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case345: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case346: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case347: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case348: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case349: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case350: 
+LinearTable[]: 23
+deque[]: 6
+
+Test case351: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case352: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case353: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case354: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case355: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case356: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case357: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case358: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case359: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case360: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case361: 
+LinearTable[]: 23
+deque[]: 6
+
+Test case362: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case363: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case364: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case365: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case366: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case367: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case368: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case369: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case370: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case371: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case372: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case373: 
+LinearTable[]: 23
+deque[]: 6
+
+Test case374: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case375: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case376: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case377: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case378: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case379: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case380: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case381: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case382: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case383: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case384: 
+LinearTable[]: 25
+deque[]: 5
+
+Test case385: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case386: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case387: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case388: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case389: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case390: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case391: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case392: 
+LinearTable[]: 25
+deque[]: 7
+
+Test case393: 
+LinearTable[]: 28
+deque[]: 6
+
+Test case394: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case395: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case396: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case397: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case398: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case399: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case400: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case401: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case402: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case403: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case404: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case405: 
+LinearTable[]: 26
+deque[]: 6
+
+Test case406: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case407: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case408: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case409: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case410: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case411: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case412: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case413: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case414: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case415: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case416: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case417: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case418: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case419: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case420: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case421: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case422: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case423: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case424: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case425: 
+LinearTable[]: 25
+deque[]: 7
+
+Test case426: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case427: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case428: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case429: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case430: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case431: 
+LinearTable[]: 23
+deque[]: 6
+
+Test case432: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case433: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case434: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case435: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case436: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case437: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case438: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case439: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case440: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case441: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case442: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case443: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case444: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case445: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case446: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case447: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case448: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case449: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case450: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case451: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case452: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case453: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case454: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case455: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case456: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case457: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case458: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case459: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case460: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case461: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case462: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case463: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case464: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case465: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case466: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case467: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case468: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case469: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case470: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case471: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case472: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case473: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case474: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case475: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case476: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case477: 
+LinearTable[]: 23
+deque[]: 7
+
+Test case478: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case479: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case480: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case481: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case482: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case483: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case484: 
+LinearTable[]: 26
+deque[]: 6
+
+Test case485: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case486: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case487: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case488: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case489: 
+LinearTable[]: 23
+deque[]: 6
+
+Test case490: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case491: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case492: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case493: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case494: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case495: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case496: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case497: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case498: 
+LinearTable[]: 26
+deque[]: 6
+
+Test case499: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case500: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case501: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case502: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case503: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case504: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case505: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case506: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case507: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case508: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case509: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case510: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case511: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case512: 
+LinearTable[]: 23
+deque[]: 6
+
+Test case513: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case514: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case515: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case516: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case517: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case518: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case519: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case520: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case521: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case522: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case523: 
+LinearTable[]: 26
+deque[]: 5
+
+Test case524: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case525: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case526: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case527: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case528: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case529: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case530: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case531: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case532: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case533: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case534: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case535: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case536: 
+LinearTable[]: 23
+deque[]: 6
+
+Test case537: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case538: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case539: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case540: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case541: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case542: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case543: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case544: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case545: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case546: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case547: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case548: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case549: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case550: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case551: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case552: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case553: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case554: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case555: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case556: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case557: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case558: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case559: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case560: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case561: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case562: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case563: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case564: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case565: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case566: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case567: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case568: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case569: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case570: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case571: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case572: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case573: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case574: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case575: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case576: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case577: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case578: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case579: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case580: 
+LinearTable[]: 26
+deque[]: 6
+
+Test case581: 
+LinearTable[]: 25
+deque[]: 7
+
+Test case582: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case583: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case584: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case585: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case586: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case587: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case588: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case589: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case590: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case591: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case592: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case593: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case594: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case595: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case596: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case597: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case598: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case599: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case600: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case601: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case602: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case603: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case604: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case605: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case606: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case607: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case608: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case609: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case610: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case611: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case612: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case613: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case614: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case615: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case616: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case617: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case618: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case619: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case620: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case621: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case622: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case623: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case624: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case625: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case626: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case627: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case628: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case629: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case630: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case631: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case632: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case633: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case634: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case635: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case636: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case637: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case638: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case639: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case640: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case641: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case642: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case643: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case644: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case645: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case646: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case647: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case648: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case649: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case650: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case651: 
+LinearTable[]: 25
+deque[]: 5
+
+Test case652: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case653: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case654: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case655: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case656: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case657: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case658: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case659: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case660: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case661: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case662: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case663: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case664: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case665: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case666: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case667: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case668: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case669: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case670: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case671: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case672: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case673: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case674: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case675: 
+LinearTable[]: 25
+deque[]: 5
+
+Test case676: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case677: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case678: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case679: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case680: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case681: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case682: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case683: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case684: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case685: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case686: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case687: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case688: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case689: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case690: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case691: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case692: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case693: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case694: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case695: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case696: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case697: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case698: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case699: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case700: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case701: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case702: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case703: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case704: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case705: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case706: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case707: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case708: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case709: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case710: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case711: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case712: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case713: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case714: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case715: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case716: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case717: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case718: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case719: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case720: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case721: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case722: 
+LinearTable[]: 23
+deque[]: 7
+
+Test case723: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case724: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case725: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case726: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case727: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case728: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case729: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case730: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case731: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case732: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case733: 
+LinearTable[]: 25
+deque[]: 5
+
+Test case734: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case735: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case736: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case737: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case738: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case739: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case740: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case741: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case742: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case743: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case744: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case745: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case746: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case747: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case748: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case749: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case750: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case751: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case752: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case753: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case754: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case755: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case756: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case757: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case758: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case759: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case760: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case761: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case762: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case763: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case764: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case765: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case766: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case767: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case768: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case769: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case770: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case771: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case772: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case773: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case774: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case775: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case776: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case777: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case778: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case779: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case780: 
+LinearTable[]: 23
+deque[]: 6
+
+Test case781: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case782: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case783: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case784: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case785: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case786: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case787: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case788: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case789: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case790: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case791: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case792: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case793: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case794: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case795: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case796: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case797: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case798: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case799: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case800: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case801: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case802: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case803: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case804: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case805: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case806: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case807: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case808: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case809: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case810: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case811: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case812: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case813: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case814: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case815: 
+LinearTable[]: 23
+deque[]: 7
+
+Test case816: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case817: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case818: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case819: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case820: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case821: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case822: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case823: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case824: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case825: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case826: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case827: 
+LinearTable[]: 23
+deque[]: 7
+
+Test case828: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case829: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case830: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case831: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case832: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case833: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case834: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case835: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case836: 
+LinearTable[]: 26
+deque[]: 6
+
+Test case837: 
+LinearTable[]: 26
+deque[]: 6
+
+Test case838: 
+LinearTable[]: 25
+deque[]: 5
+
+Test case839: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case840: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case841: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case842: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case843: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case844: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case845: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case846: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case847: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case848: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case849: 
+LinearTable[]: 25
+deque[]: 5
+
+Test case850: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case851: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case852: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case853: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case854: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case855: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case856: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case857: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case858: 
+LinearTable[]: 27
+deque[]: 6
+
+Test case859: 
+LinearTable[]: 27
+deque[]: 6
+
+Test case860: 
+LinearTable[]: 26
+deque[]: 7
+
+Test case861: 
+LinearTable[]: 27
+deque[]: 7
+
+Test case862: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case863: 
+LinearTable[]: 26
+deque[]: 6
+
+Test case864: 
+LinearTable[]: 27
+deque[]: 7
+
+Test case865: 
+LinearTable[]: 29
+deque[]: 6
+
+Test case866: 
+LinearTable[]: 28
+deque[]: 6
+
+Test case867: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case868: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case869: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case870: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case871: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case872: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case873: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case874: 
+LinearTable[]: 27
+deque[]: 6
+
+Test case875: 
+LinearTable[]: 27
+deque[]: 6
+
+Test case876: 
+LinearTable[]: 27
+deque[]: 6
+
+Test case877: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case878: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case879: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case880: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case881: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case882: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case883: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case884: 
+LinearTable[]: 23
+deque[]: 7
+
+Test case885: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case886: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case887: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case888: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case889: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case890: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case891: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case892: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case893: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case894: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case895: 
+LinearTable[]: 23
+deque[]: 6
+
+Test case896: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case897: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case898: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case899: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case900: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case901: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case902: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case903: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case904: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case905: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case906: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case907: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case908: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case909: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case910: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case911: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case912: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case913: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case914: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case915: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case916: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case917: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case918: 
+LinearTable[]: 23
+deque[]: 8
+
+Test case919: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case920: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case921: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case922: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case923: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case924: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case925: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case926: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case927: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case928: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case929: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case930: 
+LinearTable[]: 23
+deque[]: 7
+
+Test case931: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case932: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case933: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case934: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case935: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case936: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case937: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case938: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case939: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case940: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case941: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case942: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case943: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case944: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case945: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case946: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case947: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case948: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case949: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case950: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case951: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case952: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case953: 
+LinearTable[]: 26
+deque[]: 6
+
+Test case954: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case955: 
+LinearTable[]: 25
+deque[]: 7
+
+Test case956: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case957: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case958: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case959: 
+LinearTable[]: 25
+deque[]: 7
+
+Test case960: 
+LinearTable[]: 27
+deque[]: 8
+
+Test case961: 
+LinearTable[]: 28
+deque[]: 10
+
+Test case962: 
+LinearTable[]: 27
+deque[]: 10
+
+Test case963: 
+LinearTable[]: 28
+deque[]: 6
+
+Test case964: 
+LinearTable[]: 25
+deque[]: 7
+
+Test case965: 
+LinearTable[]: 31
+deque[]: 6
+
+Test case966: 
+LinearTable[]: 28
+deque[]: 6
+
+Test case967: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case968: 
+LinearTable[]: 25
+deque[]: 7
+
+Test case969: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case970: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case971: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case972: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case973: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case974: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case975: 
+LinearTable[]: 25
+deque[]: 5
+
+Test case976: 
+LinearTable[]: 26
+deque[]: 6
+
+Test case977: 
+LinearTable[]: 27
+deque[]: 7
+
+Test case978: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case979: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case980: 
+LinearTable[]: 25
+deque[]: 7
+
+Test case981: 
+LinearTable[]: 25
+deque[]: 7
+
+Test case982: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case983: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case984: 
+LinearTable[]: 25
+deque[]: 7
+
+Test case985: 
+LinearTable[]: 26
+deque[]: 6
+
+Test case986: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case987: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case988: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case989: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case990: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case991: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case992: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case993: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case994: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case995: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case996: 
+LinearTable[]: 24
+deque[]: 7
+
+Test case997: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case998: 
+LinearTable[]: 24
+deque[]: 6
+
+Test case999: 
+LinearTable[]: 25
+deque[]: 6
+
+Test case1000: 
+LinearTable[]: 24
+deque[]: 7
+

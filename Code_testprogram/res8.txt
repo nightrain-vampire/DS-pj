@@ -1,0 +1,11 @@
+初始化长度为1e6的线性表：
+deque: 4
+LinearTable: 237
+
+迭代器遍历：
+deque: 8
+LinearTable: 22
+
+clear()的效率：
+deque: 2
+LinearTable: 51

@@ -1,0 +1,4000 @@
+Test case1: 
+LinearTable: 21
+deque: 2
+
+Test case2: 
+LinearTable: 22
+deque: 2
+
+Test case3: 
+LinearTable: 23
+deque: 2
+
+Test case4: 
+LinearTable: 22
+deque: 2
+
+Test case5: 
+LinearTable: 22
+deque: 1
+
+Test case6: 
+LinearTable: 22
+deque: 2
+
+Test case7: 
+LinearTable: 23
+deque: 1
+
+Test case8: 
+LinearTable: 22
+deque: 2
+
+Test case9: 
+LinearTable: 22
+deque: 2
+
+Test case10: 
+LinearTable: 22
+deque: 2
+
+Test case11: 
+LinearTable: 23
+deque: 1
+
+Test case12: 
+LinearTable: 22
+deque: 2
+
+Test case13: 
+LinearTable: 22
+deque: 2
+
+Test case14: 
+LinearTable: 22
+deque: 1
+
+Test case15: 
+LinearTable: 23
+deque: 1
+
+Test case16: 
+LinearTable: 22
+deque: 2
+
+Test case17: 
+LinearTable: 22
+deque: 1
+
+Test case18: 
+LinearTable: 21
+deque: 2
+
+Test case19: 
+LinearTable: 22
+deque: 1
+
+Test case20: 
+LinearTable: 22
+deque: 2
+
+Test case21: 
+LinearTable: 22
+deque: 2
+
+Test case22: 
+LinearTable: 22
+deque: 2
+
+Test case23: 
+LinearTable: 22
+deque: 2
+
+Test case24: 
+LinearTable: 21
+deque: 2
+
+Test case25: 
+LinearTable: 22
+deque: 2
+
+Test case26: 
+LinearTable: 22
+deque: 2
+
+Test case27: 
+LinearTable: 22
+deque: 2
+
+Test case28: 
+LinearTable: 22
+deque: 2
+
+Test case29: 
+LinearTable: 22
+deque: 2
+
+Test case30: 
+LinearTable: 21
+deque: 2
+
+Test case31: 
+LinearTable: 22
+deque: 2
+
+Test case32: 
+LinearTable: 22
+deque: 2
+
+Test case33: 
+LinearTable: 22
+deque: 2
+
+Test case34: 
+LinearTable: 22
+deque: 2
+
+Test case35: 
+LinearTable: 21
+deque: 2
+
+Test case36: 
+LinearTable: 22
+deque: 2
+
+Test case37: 
+LinearTable: 22
+deque: 2
+
+Test case38: 
+LinearTable: 22
+deque: 2
+
+Test case39: 
+LinearTable: 22
+deque: 2
+
+Test case40: 
+LinearTable: 22
+deque: 2
+
+Test case41: 
+LinearTable: 22
+deque: 1
+
+Test case42: 
+LinearTable: 22
+deque: 2
+
+Test case43: 
+LinearTable: 22
+deque: 1
+
+Test case44: 
+LinearTable: 21
+deque: 2
+
+Test case45: 
+LinearTable: 22
+deque: 1
+
+Test case46: 
+LinearTable: 21
+deque: 2
+
+Test case47: 
+LinearTable: 22
+deque: 2
+
+Test case48: 
+LinearTable: 22
+deque: 2
+
+Test case49: 
+LinearTable: 22
+deque: 2
+
+Test case50: 
+LinearTable: 22
+deque: 2
+
+Test case51: 
+LinearTable: 22
+deque: 2
+
+Test case52: 
+LinearTable: 22
+deque: 2
+
+Test case53: 
+LinearTable: 22
+deque: 2
+
+Test case54: 
+LinearTable: 22
+deque: 1
+
+Test case55: 
+LinearTable: 22
+deque: 2
+
+Test case56: 
+LinearTable: 22
+deque: 2
+
+Test case57: 
+LinearTable: 22
+deque: 2
+
+Test case58: 
+LinearTable: 22
+deque: 1
+
+Test case59: 
+LinearTable: 22
+deque: 2
+
+Test case60: 
+LinearTable: 22
+deque: 1
+
+Test case61: 
+LinearTable: 22
+deque: 2
+
+Test case62: 
+LinearTable: 22
+deque: 2
+
+Test case63: 
+LinearTable: 22
+deque: 2
+
+Test case64: 
+LinearTable: 22
+deque: 2
+
+Test case65: 
+LinearTable: 22
+deque: 2
+
+Test case66: 
+LinearTable: 22
+deque: 2
+
+Test case67: 
+LinearTable: 22
+deque: 1
+
+Test case68: 
+LinearTable: 22
+deque: 2
+
+Test case69: 
+LinearTable: 22
+deque: 2
+
+Test case70: 
+LinearTable: 22
+deque: 2
+
+Test case71: 
+LinearTable: 22
+deque: 2
+
+Test case72: 
+LinearTable: 22
+deque: 2
+
+Test case73: 
+LinearTable: 22
+deque: 2
+
+Test case74: 
+LinearTable: 22
+deque: 1
+
+Test case75: 
+LinearTable: 22
+deque: 2
+
+Test case76: 
+LinearTable: 22
+deque: 2
+
+Test case77: 
+LinearTable: 22
+deque: 2
+
+Test case78: 
+LinearTable: 22
+deque: 2
+
+Test case79: 
+LinearTable: 22
+deque: 2
+
+Test case80: 
+LinearTable: 22
+deque: 2
+
+Test case81: 
+LinearTable: 22
+deque: 2
+
+Test case82: 
+LinearTable: 22
+deque: 2
+
+Test case83: 
+LinearTable: 22
+deque: 2
+
+Test case84: 
+LinearTable: 22
+deque: 2
+
+Test case85: 
+LinearTable: 23
+deque: 1
+
+Test case86: 
+LinearTable: 22
+deque: 2
+
+Test case87: 
+LinearTable: 22
+deque: 2
+
+Test case88: 
+LinearTable: 22
+deque: 2
+
+Test case89: 
+LinearTable: 22
+deque: 2
+
+Test case90: 
+LinearTable: 23
+deque: 2
+
+Test case91: 
+LinearTable: 24
+deque: 2
+
+Test case92: 
+LinearTable: 21
+deque: 3
+
+Test case93: 
+LinearTable: 22
+deque: 2
+
+Test case94: 
+LinearTable: 23
+deque: 1
+
+Test case95: 
+LinearTable: 22
+deque: 2
+
+Test case96: 
+LinearTable: 22
+deque: 2
+
+Test case97: 
+LinearTable: 22
+deque: 2
+
+Test case98: 
+LinearTable: 22
+deque: 2
+
+Test case99: 
+LinearTable: 22
+deque: 2
+
+Test case100: 
+LinearTable: 23
+deque: 1
+
+Test case101: 
+LinearTable: 23
+deque: 2
+
+Test case102: 
+LinearTable: 22
+deque: 2
+
+Test case103: 
+LinearTable: 22
+deque: 1
+
+Test case104: 
+LinearTable: 22
+deque: 2
+
+Test case105: 
+LinearTable: 22
+deque: 2
+
+Test case106: 
+LinearTable: 22
+deque: 2
+
+Test case107: 
+LinearTable: 22
+deque: 2
+
+Test case108: 
+LinearTable: 23
+deque: 1
+
+Test case109: 
+LinearTable: 22
+deque: 2
+
+Test case110: 
+LinearTable: 22
+deque: 2
+
+Test case111: 
+LinearTable: 22
+deque: 2
+
+Test case112: 
+LinearTable: 22
+deque: 2
+
+Test case113: 
+LinearTable: 22
+deque: 2
+
+Test case114: 
+LinearTable: 21
+deque: 3
+
+Test case115: 
+LinearTable: 21
+deque: 2
+
+Test case116: 
+LinearTable: 22
+deque: 2
+
+Test case117: 
+LinearTable: 22
+deque: 2
+
+Test case118: 
+LinearTable: 22
+deque: 2
+
+Test case119: 
+LinearTable: 23
+deque: 1
+
+Test case120: 
+LinearTable: 22
+deque: 2
+
+Test case121: 
+LinearTable: 23
+deque: 1
+
+Test case122: 
+LinearTable: 23
+deque: 2
+
+Test case123: 
+LinearTable: 23
+deque: 2
+
+Test case124: 
+LinearTable: 22
+deque: 2
+
+Test case125: 
+LinearTable: 22
+deque: 2
+
+Test case126: 
+LinearTable: 23
+deque: 2
+
+Test case127: 
+LinearTable: 23
+deque: 1
+
+Test case128: 
+LinearTable: 22
+deque: 2
+
+Test case129: 
+LinearTable: 22
+deque: 2
+
+Test case130: 
+LinearTable: 22
+deque: 1
+
+Test case131: 
+LinearTable: 22
+deque: 2
+
+Test case132: 
+LinearTable: 22
+deque: 1
+
+Test case133: 
+LinearTable: 22
+deque: 2
+
+Test case134: 
+LinearTable: 22
+deque: 1
+
+Test case135: 
+LinearTable: 21
+deque: 2
+
+Test case136: 
+LinearTable: 22
+deque: 1
+
+Test case137: 
+LinearTable: 22
+deque: 2
+
+Test case138: 
+LinearTable: 22
+deque: 2
+
+Test case139: 
+LinearTable: 21
+deque: 2
+
+Test case140: 
+LinearTable: 22
+deque: 2
+
+Test case141: 
+LinearTable: 22
+deque: 2
+
+Test case142: 
+LinearTable: 22
+deque: 2
+
+Test case143: 
+LinearTable: 22
+deque: 2
+
+Test case144: 
+LinearTable: 22
+deque: 2
+
+Test case145: 
+LinearTable: 22
+deque: 2
+
+Test case146: 
+LinearTable: 22
+deque: 2
+
+Test case147: 
+LinearTable: 22
+deque: 2
+
+Test case148: 
+LinearTable: 22
+deque: 2
+
+Test case149: 
+LinearTable: 22
+deque: 2
+
+Test case150: 
+LinearTable: 22
+deque: 2
+
+Test case151: 
+LinearTable: 22
+deque: 2
+
+Test case152: 
+LinearTable: 22
+deque: 2
+
+Test case153: 
+LinearTable: 22
+deque: 2
+
+Test case154: 
+LinearTable: 22
+deque: 2
+
+Test case155: 
+LinearTable: 22
+deque: 2
+
+Test case156: 
+LinearTable: 22
+deque: 2
+
+Test case157: 
+LinearTable: 23
+deque: 2
+
+Test case158: 
+LinearTable: 22
+deque: 2
+
+Test case159: 
+LinearTable: 22
+deque: 2
+
+Test case160: 
+LinearTable: 21
+deque: 2
+
+Test case161: 
+LinearTable: 22
+deque: 2
+
+Test case162: 
+LinearTable: 22
+deque: 2
+
+Test case163: 
+LinearTable: 22
+deque: 2
+
+Test case164: 
+LinearTable: 22
+deque: 2
+
+Test case165: 
+LinearTable: 22
+deque: 2
+
+Test case166: 
+LinearTable: 22
+deque: 2
+
+Test case167: 
+LinearTable: 23
+deque: 1
+
+Test case168: 
+LinearTable: 22
+deque: 2
+
+Test case169: 
+LinearTable: 22
+deque: 2
+
+Test case170: 
+LinearTable: 22
+deque: 2
+
+Test case171: 
+LinearTable: 21
+deque: 1
+
+Test case172: 
+LinearTable: 22
+deque: 1
+
+Test case173: 
+LinearTable: 23
+deque: 1
+
+Test case174: 
+LinearTable: 22
+deque: 2
+
+Test case175: 
+LinearTable: 22
+deque: 2
+
+Test case176: 
+LinearTable: 23
+deque: 2
+
+Test case177: 
+LinearTable: 22
+deque: 2
+
+Test case178: 
+LinearTable: 23
+deque: 2
+
+Test case179: 
+LinearTable: 23
+deque: 1
+
+Test case180: 
+LinearTable: 22
+deque: 1
+
+Test case181: 
+LinearTable: 22
+deque: 2
+
+Test case182: 
+LinearTable: 22
+deque: 2
+
+Test case183: 
+LinearTable: 21
+deque: 2
+
+Test case184: 
+LinearTable: 21
+deque: 2
+
+Test case185: 
+LinearTable: 22
+deque: 2
+
+Test case186: 
+LinearTable: 22
+deque: 2
+
+Test case187: 
+LinearTable: 22
+deque: 2
+
+Test case188: 
+LinearTable: 22
+deque: 2
+
+Test case189: 
+LinearTable: 22
+deque: 2
+
+Test case190: 
+LinearTable: 22
+deque: 2
+
+Test case191: 
+LinearTable: 22
+deque: 2
+
+Test case192: 
+LinearTable: 22
+deque: 1
+
+Test case193: 
+LinearTable: 22
+deque: 2
+
+Test case194: 
+LinearTable: 22
+deque: 2
+
+Test case195: 
+LinearTable: 22
+deque: 2
+
+Test case196: 
+LinearTable: 22
+deque: 2
+
+Test case197: 
+LinearTable: 22
+deque: 2
+
+Test case198: 
+LinearTable: 22
+deque: 2
+
+Test case199: 
+LinearTable: 22
+deque: 2
+
+Test case200: 
+LinearTable: 22
+deque: 1
+
+Test case201: 
+LinearTable: 22
+deque: 2
+
+Test case202: 
+LinearTable: 22
+deque: 1
+
+Test case203: 
+LinearTable: 23
+deque: 1
+
+Test case204: 
+LinearTable: 24
+deque: 2
+
+Test case205: 
+LinearTable: 22
+deque: 1
+
+Test case206: 
+LinearTable: 22
+deque: 2
+
+Test case207: 
+LinearTable: 22
+deque: 2
+
+Test case208: 
+LinearTable: 22
+deque: 1
+
+Test case209: 
+LinearTable: 22
+deque: 2
+
+Test case210: 
+LinearTable: 22
+deque: 2
+
+Test case211: 
+LinearTable: 22
+deque: 2
+
+Test case212: 
+LinearTable: 22
+deque: 2
+
+Test case213: 
+LinearTable: 22
+deque: 2
+
+Test case214: 
+LinearTable: 22
+deque: 1
+
+Test case215: 
+LinearTable: 22
+deque: 2
+
+Test case216: 
+LinearTable: 22
+deque: 2
+
+Test case217: 
+LinearTable: 21
+deque: 2
+
+Test case218: 
+LinearTable: 23
+deque: 2
+
+Test case219: 
+LinearTable: 22
+deque: 2
+
+Test case220: 
+LinearTable: 23
+deque: 2
+
+Test case221: 
+LinearTable: 22
+deque: 2
+
+Test case222: 
+LinearTable: 22
+deque: 2
+
+Test case223: 
+LinearTable: 22
+deque: 2
+
+Test case224: 
+LinearTable: 22
+deque: 2
+
+Test case225: 
+LinearTable: 22
+deque: 2
+
+Test case226: 
+LinearTable: 22
+deque: 1
+
+Test case227: 
+LinearTable: 22
+deque: 2
+
+Test case228: 
+LinearTable: 22
+deque: 1
+
+Test case229: 
+LinearTable: 22
+deque: 2
+
+Test case230: 
+LinearTable: 22
+deque: 1
+
+Test case231: 
+LinearTable: 22
+deque: 2
+
+Test case232: 
+LinearTable: 22
+deque: 2
+
+Test case233: 
+LinearTable: 22
+deque: 2
+
+Test case234: 
+LinearTable: 22
+deque: 2
+
+Test case235: 
+LinearTable: 22
+deque: 2
+
+Test case236: 
+LinearTable: 23
+deque: 2
+
+Test case237: 
+LinearTable: 22
+deque: 2
+
+Test case238: 
+LinearTable: 22
+deque: 2
+
+Test case239: 
+LinearTable: 22
+deque: 2
+
+Test case240: 
+LinearTable: 21
+deque: 2
+
+Test case241: 
+LinearTable: 22
+deque: 2
+
+Test case242: 
+LinearTable: 22
+deque: 2
+
+Test case243: 
+LinearTable: 22
+deque: 2
+
+Test case244: 
+LinearTable: 22
+deque: 2
+
+Test case245: 
+LinearTable: 22
+deque: 2
+
+Test case246: 
+LinearTable: 22
+deque: 2
+
+Test case247: 
+LinearTable: 23
+deque: 1
+
+Test case248: 
+LinearTable: 23
+deque: 1
+
+Test case249: 
+LinearTable: 22
+deque: 2
+
+Test case250: 
+LinearTable: 22
+deque: 1
+
+Test case251: 
+LinearTable: 22
+deque: 2
+
+Test case252: 
+LinearTable: 22
+deque: 2
+
+Test case253: 
+LinearTable: 22
+deque: 2
+
+Test case254: 
+LinearTable: 22
+deque: 1
+
+Test case255: 
+LinearTable: 22
+deque: 1
+
+Test case256: 
+LinearTable: 22
+deque: 2
+
+Test case257: 
+LinearTable: 22
+deque: 2
+
+Test case258: 
+LinearTable: 22
+deque: 2
+
+Test case259: 
+LinearTable: 22
+deque: 2
+
+Test case260: 
+LinearTable: 22
+deque: 2
+
+Test case261: 
+LinearTable: 22
+deque: 2
+
+Test case262: 
+LinearTable: 22
+deque: 2
+
+Test case263: 
+LinearTable: 21
+deque: 2
+
+Test case264: 
+LinearTable: 22
+deque: 2
+
+Test case265: 
+LinearTable: 22
+deque: 2
+
+Test case266: 
+LinearTable: 22
+deque: 1
+
+Test case267: 
+LinearTable: 22
+deque: 2
+
+Test case268: 
+LinearTable: 21
+deque: 2
+
+Test case269: 
+LinearTable: 22
+deque: 2
+
+Test case270: 
+LinearTable: 22
+deque: 2
+
+Test case271: 
+LinearTable: 22
+deque: 1
+
+Test case272: 
+LinearTable: 22
+deque: 2
+
+Test case273: 
+LinearTable: 22
+deque: 2
+
+Test case274: 
+LinearTable: 22
+deque: 1
+
+Test case275: 
+LinearTable: 22
+deque: 2
+
+Test case276: 
+LinearTable: 21
+deque: 2
+
+Test case277: 
+LinearTable: 22
+deque: 2
+
+Test case278: 
+LinearTable: 21
+deque: 2
+
+Test case279: 
+LinearTable: 22
+deque: 1
+
+Test case280: 
+LinearTable: 22
+deque: 2
+
+Test case281: 
+LinearTable: 22
+deque: 2
+
+Test case282: 
+LinearTable: 21
+deque: 2
+
+Test case283: 
+LinearTable: 22
+deque: 2
+
+Test case284: 
+LinearTable: 23
+deque: 2
+
+Test case285: 
+LinearTable: 22
+deque: 2
+
+Test case286: 
+LinearTable: 22
+deque: 2
+
+Test case287: 
+LinearTable: 22
+deque: 2
+
+Test case288: 
+LinearTable: 22
+deque: 2
+
+Test case289: 
+LinearTable: 22
+deque: 2
+
+Test case290: 
+LinearTable: 22
+deque: 2
+
+Test case291: 
+LinearTable: 22
+deque: 2
+
+Test case292: 
+LinearTable: 21
+deque: 2
+
+Test case293: 
+LinearTable: 22
+deque: 2
+
+Test case294: 
+LinearTable: 22
+deque: 2
+
+Test case295: 
+LinearTable: 23
+deque: 2
+
+Test case296: 
+LinearTable: 22
+deque: 2
+
+Test case297: 
+LinearTable: 22
+deque: 2
+
+Test case298: 
+LinearTable: 22
+deque: 2
+
+Test case299: 
+LinearTable: 22
+deque: 2
+
+Test case300: 
+LinearTable: 22
+deque: 1
+
+Test case301: 
+LinearTable: 22
+deque: 2
+
+Test case302: 
+LinearTable: 22
+deque: 2
+
+Test case303: 
+LinearTable: 22
+deque: 2
+
+Test case304: 
+LinearTable: 22
+deque: 2
+
+Test case305: 
+LinearTable: 22
+deque: 1
+
+Test case306: 
+LinearTable: 23
+deque: 2
+
+Test case307: 
+LinearTable: 22
+deque: 2
+
+Test case308: 
+LinearTable: 21
+deque: 2
+
+Test case309: 
+LinearTable: 22
+deque: 2
+
+Test case310: 
+LinearTable: 22
+deque: 2
+
+Test case311: 
+LinearTable: 22
+deque: 2
+
+Test case312: 
+LinearTable: 22
+deque: 2
+
+Test case313: 
+LinearTable: 22
+deque: 2
+
+Test case314: 
+LinearTable: 22
+deque: 2
+
+Test case315: 
+LinearTable: 22
+deque: 2
+
+Test case316: 
+LinearTable: 22
+deque: 1
+
+Test case317: 
+LinearTable: 22
+deque: 2
+
+Test case318: 
+LinearTable: 22
+deque: 2
+
+Test case319: 
+LinearTable: 22
+deque: 2
+
+Test case320: 
+LinearTable: 22
+deque: 1
+
+Test case321: 
+LinearTable: 22
+deque: 2
+
+Test case322: 
+LinearTable: 22
+deque: 2
+
+Test case323: 
+LinearTable: 22
+deque: 2
+
+Test case324: 
+LinearTable: 21
+deque: 1
+
+Test case325: 
+LinearTable: 22
+deque: 1
+
+Test case326: 
+LinearTable: 22
+deque: 2
+
+Test case327: 
+LinearTable: 22
+deque: 2
+
+Test case328: 
+LinearTable: 20
+deque: 2
+
+Test case329: 
+LinearTable: 22
+deque: 2
+
+Test case330: 
+LinearTable: 22
+deque: 2
+
+Test case331: 
+LinearTable: 22
+deque: 2
+
+Test case332: 
+LinearTable: 22
+deque: 2
+
+Test case333: 
+LinearTable: 22
+deque: 2
+
+Test case334: 
+LinearTable: 22
+deque: 2
+
+Test case335: 
+LinearTable: 22
+deque: 2
+
+Test case336: 
+LinearTable: 22
+deque: 1
+
+Test case337: 
+LinearTable: 22
+deque: 2
+
+Test case338: 
+LinearTable: 20
+deque: 2
+
+Test case339: 
+LinearTable: 22
+deque: 2
+
+Test case340: 
+LinearTable: 22
+deque: 2
+
+Test case341: 
+LinearTable: 22
+deque: 2
+
+Test case342: 
+LinearTable: 22
+deque: 2
+
+Test case343: 
+LinearTable: 22
+deque: 1
+
+Test case344: 
+LinearTable: 21
+deque: 2
+
+Test case345: 
+LinearTable: 23
+deque: 1
+
+Test case346: 
+LinearTable: 22
+deque: 2
+
+Test case347: 
+LinearTable: 22
+deque: 2
+
+Test case348: 
+LinearTable: 22
+deque: 2
+
+Test case349: 
+LinearTable: 23
+deque: 1
+
+Test case350: 
+LinearTable: 20
+deque: 2
+
+Test case351: 
+LinearTable: 22
+deque: 2
+
+Test case352: 
+LinearTable: 22
+deque: 2
+
+Test case353: 
+LinearTable: 22
+deque: 2
+
+Test case354: 
+LinearTable: 19
+deque: 2
+
+Test case355: 
+LinearTable: 22
+deque: 2
+
+Test case356: 
+LinearTable: 22
+deque: 2
+
+Test case357: 
+LinearTable: 22
+deque: 2
+
+Test case358: 
+LinearTable: 22
+deque: 1
+
+Test case359: 
+LinearTable: 22
+deque: 2
+
+Test case360: 
+LinearTable: 20
+deque: 2
+
+Test case361: 
+LinearTable: 22
+deque: 2
+
+Test case362: 
+LinearTable: 22
+deque: 2
+
+Test case363: 
+LinearTable: 22
+deque: 2
+
+Test case364: 
+LinearTable: 22
+deque: 2
+
+Test case365: 
+LinearTable: 22
+deque: 2
+
+Test case366: 
+LinearTable: 19
+deque: 2
+
+Test case367: 
+LinearTable: 23
+deque: 2
+
+Test case368: 
+LinearTable: 21
+deque: 2
+
+Test case369: 
+LinearTable: 22
+deque: 2
+
+Test case370: 
+LinearTable: 22
+deque: 2
+
+Test case371: 
+LinearTable: 22
+deque: 2
+
+Test case372: 
+LinearTable: 20
+deque: 2
+
+Test case373: 
+LinearTable: 21
+deque: 1
+
+Test case374: 
+LinearTable: 22
+deque: 2
+
+Test case375: 
+LinearTable: 22
+deque: 2
+
+Test case376: 
+LinearTable: 21
+deque: 2
+
+Test case377: 
+LinearTable: 22
+deque: 2
+
+Test case378: 
+LinearTable: 20
+deque: 2
+
+Test case379: 
+LinearTable: 20
+deque: 2
+
+Test case380: 
+LinearTable: 21
+deque: 2
+
+Test case381: 
+LinearTable: 22
+deque: 2
+
+Test case382: 
+LinearTable: 20
+deque: 2
+
+Test case383: 
+LinearTable: 22
+deque: 2
+
+Test case384: 
+LinearTable: 21
+deque: 2
+
+Test case385: 
+LinearTable: 21
+deque: 2
+
+Test case386: 
+LinearTable: 22
+deque: 2
+
+Test case387: 
+LinearTable: 22
+deque: 2
+
+Test case388: 
+LinearTable: 20
+deque: 2
+
+Test case389: 
+LinearTable: 21
+deque: 2
+
+Test case390: 
+LinearTable: 21
+deque: 1
+
+Test case391: 
+LinearTable: 22
+deque: 1
+
+Test case392: 
+LinearTable: 22
+deque: 2
+
+Test case393: 
+LinearTable: 22
+deque: 2
+
+Test case394: 
+LinearTable: 21
+deque: 1
+
+Test case395: 
+LinearTable: 22
+deque: 2
+
+Test case396: 
+LinearTable: 20
+deque: 2
+
+Test case397: 
+LinearTable: 21
+deque: 2
+
+Test case398: 
+LinearTable: 20
+deque: 2
+
+Test case399: 
+LinearTable: 20
+deque: 2
+
+Test case400: 
+LinearTable: 22
+deque: 2
+
+Test case401: 
+LinearTable: 22
+deque: 2
+
+Test case402: 
+LinearTable: 21
+deque: 2
+
+Test case403: 
+LinearTable: 22
+deque: 2
+
+Test case404: 
+LinearTable: 21
+deque: 2
+
+Test case405: 
+LinearTable: 20
+deque: 2
+
+Test case406: 
+LinearTable: 22
+deque: 2
+
+Test case407: 
+LinearTable: 22
+deque: 2
+
+Test case408: 
+LinearTable: 21
+deque: 2
+
+Test case409: 
+LinearTable: 22
+deque: 2
+
+Test case410: 
+LinearTable: 21
+deque: 1
+
+Test case411: 
+LinearTable: 21
+deque: 2
+
+Test case412: 
+LinearTable: 22
+deque: 2
+
+Test case413: 
+LinearTable: 21
+deque: 2
+
+Test case414: 
+LinearTable: 20
+deque: 2
+
+Test case415: 
+LinearTable: 21
+deque: 2
+
+Test case416: 
+LinearTable: 20
+deque: 2
+
+Test case417: 
+LinearTable: 20
+deque: 2
+
+Test case418: 
+LinearTable: 22
+deque: 2
+
+Test case419: 
+LinearTable: 22
+deque: 2
+
+Test case420: 
+LinearTable: 21
+deque: 2
+
+Test case421: 
+LinearTable: 20
+deque: 2
+
+Test case422: 
+LinearTable: 21
+deque: 1
+
+Test case423: 
+LinearTable: 21
+deque: 2
+
+Test case424: 
+LinearTable: 22
+deque: 1
+
+Test case425: 
+LinearTable: 21
+deque: 2
+
+Test case426: 
+LinearTable: 20
+deque: 2
+
+Test case427: 
+LinearTable: 21
+deque: 1
+
+Test case428: 
+LinearTable: 20
+deque: 2
+
+Test case429: 
+LinearTable: 22
+deque: 2
+
+Test case430: 
+LinearTable: 20
+deque: 2
+
+Test case431: 
+LinearTable: 20
+deque: 2
+
+Test case432: 
+LinearTable: 21
+deque: 2
+
+Test case433: 
+LinearTable: 20
+deque: 2
+
+Test case434: 
+LinearTable: 20
+deque: 2
+
+Test case435: 
+LinearTable: 22
+deque: 2
+
+Test case436: 
+LinearTable: 20
+deque: 2
+
+Test case437: 
+LinearTable: 21
+deque: 1
+
+Test case438: 
+LinearTable: 20
+deque: 2
+
+Test case439: 
+LinearTable: 20
+deque: 2
+
+Test case440: 
+LinearTable: 20
+deque: 2
+
+Test case441: 
+LinearTable: 22
+deque: 2
+
+Test case442: 
+LinearTable: 20
+deque: 2
+
+Test case443: 
+LinearTable: 21
+deque: 2
+
+Test case444: 
+LinearTable: 21
+deque: 2
+
+Test case445: 
+LinearTable: 21
+deque: 2
+
+Test case446: 
+LinearTable: 20
+deque: 2
+
+Test case447: 
+LinearTable: 21
+deque: 1
+
+Test case448: 
+LinearTable: 20
+deque: 2
+
+Test case449: 
+LinearTable: 21
+deque: 2
+
+Test case450: 
+LinearTable: 21
+deque: 2
+
+Test case451: 
+LinearTable: 21
+deque: 2
+
+Test case452: 
+LinearTable: 20
+deque: 2
+
+Test case453: 
+LinearTable: 23
+deque: 2
+
+Test case454: 
+LinearTable: 21
+deque: 2
+
+Test case455: 
+LinearTable: 20
+deque: 2
+
+Test case456: 
+LinearTable: 20
+deque: 2
+
+Test case457: 
+LinearTable: 20
+deque: 2
+
+Test case458: 
+LinearTable: 20
+deque: 2
+
+Test case459: 
+LinearTable: 22
+deque: 1
+
+Test case460: 
+LinearTable: 21
+deque: 1
+
+Test case461: 
+LinearTable: 20
+deque: 2
+
+Test case462: 
+LinearTable: 19
+deque: 2
+
+Test case463: 
+LinearTable: 21
+deque: 1
+
+Test case464: 
+LinearTable: 20
+deque: 2
+
+Test case465: 
+LinearTable: 22
+deque: 2
+
+Test case466: 
+LinearTable: 20
+deque: 2
+
+Test case467: 
+LinearTable: 20
+deque: 2
+
+Test case468: 
+LinearTable: 21
+deque: 2
+
+Test case469: 
+LinearTable: 21
+deque: 2
+
+Test case470: 
+LinearTable: 21
+deque: 1
+
+Test case471: 
+LinearTable: 21
+deque: 1
+
+Test case472: 
+LinearTable: 21
+deque: 2
+
+Test case473: 
+LinearTable: 21
+deque: 2
+
+Test case474: 
+LinearTable: 21
+deque: 1
+
+Test case475: 
+LinearTable: 21
+deque: 2
+
+Test case476: 
+LinearTable: 22
+deque: 2
+
+Test case477: 
+LinearTable: 22
+deque: 2
+
+Test case478: 
+LinearTable: 21
+deque: 2
+
+Test case479: 
+LinearTable: 21
+deque: 2
+
+Test case480: 
+LinearTable: 21
+deque: 1
+
+Test case481: 
+LinearTable: 20
+deque: 1
+
+Test case482: 
+LinearTable: 20
+deque: 2
+
+Test case483: 
+LinearTable: 21
+deque: 1
+
+Test case484: 
+LinearTable: 21
+deque: 2
+
+Test case485: 
+LinearTable: 21
+deque: 2
+
+Test case486: 
+LinearTable: 21
+deque: 1
+
+Test case487: 
+LinearTable: 20
+deque: 1
+
+Test case488: 
+LinearTable: 22
+deque: 2
+
+Test case489: 
+LinearTable: 23
+deque: 2
+
+Test case490: 
+LinearTable: 21
+deque: 2
+
+Test case491: 
+LinearTable: 21
+deque: 2
+
+Test case492: 
+LinearTable: 21
+deque: 2
+
+Test case493: 
+LinearTable: 21
+deque: 2
+
+Test case494: 
+LinearTable: 21
+deque: 1
+
+Test case495: 
+LinearTable: 21
+deque: 1
+
+Test case496: 
+LinearTable: 20
+deque: 2
+
+Test case497: 
+LinearTable: 20
+deque: 2
+
+Test case498: 
+LinearTable: 19
+deque: 2
+
+Test case499: 
+LinearTable: 22
+deque: 1
+
+Test case500: 
+LinearTable: 21
+deque: 2
+
+Test case501: 
+LinearTable: 23
+deque: 2
+
+Test case502: 
+LinearTable: 24
+deque: 3
+
+Test case503: 
+LinearTable: 21
+deque: 1
+
+Test case504: 
+LinearTable: 22
+deque: 2
+
+Test case505: 
+LinearTable: 21
+deque: 2
+
+Test case506: 
+LinearTable: 27
+deque: 2
+
+Test case507: 
+LinearTable: 22
+deque: 1
+
+Test case508: 
+LinearTable: 21
+deque: 2
+
+Test case509: 
+LinearTable: 21
+deque: 1
+
+Test case510: 
+LinearTable: 20
+deque: 1
+
+Test case511: 
+LinearTable: 22
+deque: 2
+
+Test case512: 
+LinearTable: 21
+deque: 2
+
+Test case513: 
+LinearTable: 20
+deque: 2
+
+Test case514: 
+LinearTable: 21
+deque: 1
+
+Test case515: 
+LinearTable: 20
+deque: 2
+
+Test case516: 
+LinearTable: 20
+deque: 2
+
+Test case517: 
+LinearTable: 21
+deque: 1
+
+Test case518: 
+LinearTable: 20
+deque: 2
+
+Test case519: 
+LinearTable: 20
+deque: 2
+
+Test case520: 
+LinearTable: 21
+deque: 2
+
+Test case521: 
+LinearTable: 21
+deque: 2
+
+Test case522: 
+LinearTable: 20
+deque: 2
+
+Test case523: 
+LinearTable: 21
+deque: 1
+
+Test case524: 
+LinearTable: 20
+deque: 2
+
+Test case525: 
+LinearTable: 20
+deque: 2
+
+Test case526: 
+LinearTable: 20
+deque: 2
+
+Test case527: 
+LinearTable: 21
+deque: 1
+
+Test case528: 
+LinearTable: 21
+deque: 1
+
+Test case529: 
+LinearTable: 21
+deque: 2
+
+Test case530: 
+LinearTable: 21
+deque: 1
+
+Test case531: 
+LinearTable: 20
+deque: 2
+
+Test case532: 
+LinearTable: 20
+deque: 2
+
+Test case533: 
+LinearTable: 21
+deque: 2
+
+Test case534: 
+LinearTable: 21
+deque: 2
+
+Test case535: 
+LinearTable: 22
+deque: 2
+
+Test case536: 
+LinearTable: 20
+deque: 2
+
+Test case537: 
+LinearTable: 20
+deque: 2
+
+Test case538: 
+LinearTable: 21
+deque: 2
+
+Test case539: 
+LinearTable: 21
+deque: 2
+
+Test case540: 
+LinearTable: 21
+deque: 1
+
+Test case541: 
+LinearTable: 20
+deque: 2
+
+Test case542: 
+LinearTable: 21
+deque: 2
+
+Test case543: 
+LinearTable: 20
+deque: 2
+
+Test case544: 
+LinearTable: 20
+deque: 2
+
+Test case545: 
+LinearTable: 20
+deque: 2
+
+Test case546: 
+LinearTable: 21
+deque: 2
+
+Test case547: 
+LinearTable: 21
+deque: 1
+
+Test case548: 
+LinearTable: 20
+deque: 2
+
+Test case549: 
+LinearTable: 20
+deque: 2
+
+Test case550: 
+LinearTable: 20
+deque: 2
+
+Test case551: 
+LinearTable: 21
+deque: 2
+
+Test case552: 
+LinearTable: 21
+deque: 1
+
+Test case553: 
+LinearTable: 20
+deque: 2
+
+Test case554: 
+LinearTable: 21
+deque: 2
+
+Test case555: 
+LinearTable: 21
+deque: 2
+
+Test case556: 
+LinearTable: 20
+deque: 2
+
+Test case557: 
+LinearTable: 21
+deque: 1
+
+Test case558: 
+LinearTable: 23
+deque: 1
+
+Test case559: 
+LinearTable: 21
+deque: 2
+
+Test case560: 
+LinearTable: 21
+deque: 2
+
+Test case561: 
+LinearTable: 20
+deque: 2
+
+Test case562: 
+LinearTable: 20
+deque: 2
+
+Test case563: 
+LinearTable: 21
+deque: 2
+
+Test case564: 
+LinearTable: 20
+deque: 2
+
+Test case565: 
+LinearTable: 20
+deque: 2
+
+Test case566: 
+LinearTable: 21
+deque: 2
+
+Test case567: 
+LinearTable: 21
+deque: 2
+
+Test case568: 
+LinearTable: 21
+deque: 1
+
+Test case569: 
+LinearTable: 21
+deque: 1
+
+Test case570: 
+LinearTable: 20
+deque: 2
+
+Test case571: 
+LinearTable: 21
+deque: 2
+
+Test case572: 
+LinearTable: 21
+deque: 1
+
+Test case573: 
+LinearTable: 20
+deque: 2
+
+Test case574: 
+LinearTable: 21
+deque: 2
+
+Test case575: 
+LinearTable: 20
+deque: 2
+
+Test case576: 
+LinearTable: 21
+deque: 2
+
+Test case577: 
+LinearTable: 21
+deque: 1
+
+Test case578: 
+LinearTable: 21
+deque: 2
+
+Test case579: 
+LinearTable: 21
+deque: 2
+
+Test case580: 
+LinearTable: 21
+deque: 1
+
+Test case581: 
+LinearTable: 20
+deque: 2
+
+Test case582: 
+LinearTable: 21
+deque: 2
+
+Test case583: 
+LinearTable: 20
+deque: 2
+
+Test case584: 
+LinearTable: 20
+deque: 2
+
+Test case585: 
+LinearTable: 21
+deque: 2
+
+Test case586: 
+LinearTable: 21
+deque: 2
+
+Test case587: 
+LinearTable: 21
+deque: 2
+
+Test case588: 
+LinearTable: 21
+deque: 2
+
+Test case589: 
+LinearTable: 21
+deque: 1
+
+Test case590: 
+LinearTable: 20
+deque: 2
+
+Test case591: 
+LinearTable: 21
+deque: 2
+
+Test case592: 
+LinearTable: 21
+deque: 2
+
+Test case593: 
+LinearTable: 21
+deque: 1
+
+Test case594: 
+LinearTable: 20
+deque: 2
+
+Test case595: 
+LinearTable: 21
+deque: 2
+
+Test case596: 
+LinearTable: 20
+deque: 1
+
+Test case597: 
+LinearTable: 21
+deque: 2
+
+Test case598: 
+LinearTable: 21
+deque: 1
+
+Test case599: 
+LinearTable: 21
+deque: 2
+
+Test case600: 
+LinearTable: 21
+deque: 2
+
+Test case601: 
+LinearTable: 21
+deque: 1
+
+Test case602: 
+LinearTable: 21
+deque: 1
+
+Test case603: 
+LinearTable: 20
+deque: 2
+
+Test case604: 
+LinearTable: 22
+deque: 2
+
+Test case605: 
+LinearTable: 22
+deque: 2
+
+Test case606: 
+LinearTable: 21
+deque: 2
+
+Test case607: 
+LinearTable: 20
+deque: 2
+
+Test case608: 
+LinearTable: 20
+deque: 2
+
+Test case609: 
+LinearTable: 20
+deque: 1
+
+Test case610: 
+LinearTable: 20
+deque: 2
+
+Test case611: 
+LinearTable: 20
+deque: 2
+
+Test case612: 
+LinearTable: 20
+deque: 2
+
+Test case613: 
+LinearTable: 20
+deque: 2
+
+Test case614: 
+LinearTable: 20
+deque: 2
+
+Test case615: 
+LinearTable: 21
+deque: 1
+
+Test case616: 
+LinearTable: 20
+deque: 2
+
+Test case617: 
+LinearTable: 21
+deque: 2
+
+Test case618: 
+LinearTable: 20
+deque: 2
+
+Test case619: 
+LinearTable: 20
+deque: 2
+
+Test case620: 
+LinearTable: 21
+deque: 1
+
+Test case621: 
+LinearTable: 19
+deque: 1
+
+Test case622: 
+LinearTable: 20
+deque: 2
+
+Test case623: 
+LinearTable: 21
+deque: 2
+
+Test case624: 
+LinearTable: 21
+deque: 1
+
+Test case625: 
+LinearTable: 21
+deque: 2
+
+Test case626: 
+LinearTable: 21
+deque: 2
+
+Test case627: 
+LinearTable: 20
+deque: 2
+
+Test case628: 
+LinearTable: 20
+deque: 2
+
+Test case629: 
+LinearTable: 21
+deque: 2
+
+Test case630: 
+LinearTable: 21
+deque: 1
+
+Test case631: 
+LinearTable: 21
+deque: 2
+
+Test case632: 
+LinearTable: 20
+deque: 2
+
+Test case633: 
+LinearTable: 20
+deque: 2
+
+Test case634: 
+LinearTable: 21
+deque: 1
+
+Test case635: 
+LinearTable: 21
+deque: 2
+
+Test case636: 
+LinearTable: 21
+deque: 2
+
+Test case637: 
+LinearTable: 21
+deque: 2
+
+Test case638: 
+LinearTable: 21
+deque: 1
+
+Test case639: 
+LinearTable: 20
+deque: 2
+
+Test case640: 
+LinearTable: 20
+deque: 2
+
+Test case641: 
+LinearTable: 21
+deque: 2
+
+Test case642: 
+LinearTable: 21
+deque: 2
+
+Test case643: 
+LinearTable: 21
+deque: 2
+
+Test case644: 
+LinearTable: 21
+deque: 1
+
+Test case645: 
+LinearTable: 21
+deque: 2
+
+Test case646: 
+LinearTable: 20
+deque: 1
+
+Test case647: 
+LinearTable: 21
+deque: 2
+
+Test case648: 
+LinearTable: 21
+deque: 1
+
+Test case649: 
+LinearTable: 21
+deque: 2
+
+Test case650: 
+LinearTable: 20
+deque: 2
+
+Test case651: 
+LinearTable: 20
+deque: 2
+
+Test case652: 
+LinearTable: 21
+deque: 2
+
+Test case653: 
+LinearTable: 21
+deque: 2
+
+Test case654: 
+LinearTable: 21
+deque: 2
+
+Test case655: 
+LinearTable: 21
+deque: 2
+
+Test case656: 
+LinearTable: 20
+deque: 2
+
+Test case657: 
+LinearTable: 20
+deque: 2
+
+Test case658: 
+LinearTable: 20
+deque: 1
+
+Test case659: 
+LinearTable: 20
+deque: 2
+
+Test case660: 
+LinearTable: 21
+deque: 2
+
+Test case661: 
+LinearTable: 21
+deque: 2
+
+Test case662: 
+LinearTable: 20
+deque: 2
+
+Test case663: 
+LinearTable: 21
+deque: 2
+
+Test case664: 
+LinearTable: 20
+deque: 2
+
+Test case665: 
+LinearTable: 20
+deque: 2
+
+Test case666: 
+LinearTable: 21
+deque: 1
+
+Test case667: 
+LinearTable: 21
+deque: 2
+
+Test case668: 
+LinearTable: 21
+deque: 2
+
+Test case669: 
+LinearTable: 20
+deque: 2
+
+Test case670: 
+LinearTable: 21
+deque: 2
+
+Test case671: 
+LinearTable: 19
+deque: 1
+
+Test case672: 
+LinearTable: 20
+deque: 2
+
+Test case673: 
+LinearTable: 21
+deque: 2
+
+Test case674: 
+LinearTable: 21
+deque: 2
+
+Test case675: 
+LinearTable: 21
+deque: 2
+
+Test case676: 
+LinearTable: 21
+deque: 1
+
+Test case677: 
+LinearTable: 20
+deque: 2
+
+Test case678: 
+LinearTable: 20
+deque: 2
+
+Test case679: 
+LinearTable: 21
+deque: 2
+
+Test case680: 
+LinearTable: 21
+deque: 1
+
+Test case681: 
+LinearTable: 21
+deque: 1
+
+Test case682: 
+LinearTable: 21
+deque: 1
+
+Test case683: 
+LinearTable: 20
+deque: 2
+
+Test case684: 
+LinearTable: 21
+deque: 2
+
+Test case685: 
+LinearTable: 21
+deque: 2
+
+Test case686: 
+LinearTable: 21
+deque: 1
+
+Test case687: 
+LinearTable: 20
+deque: 2
+
+Test case688: 
+LinearTable: 20
+deque: 2
+
+Test case689: 
+LinearTable: 21
+deque: 2
+
+Test case690: 
+LinearTable: 21
+deque: 2
+
+Test case691: 
+LinearTable: 20
+deque: 2
+
+Test case692: 
+LinearTable: 21
+deque: 2
+
+Test case693: 
+LinearTable: 20
+deque: 2
+
+Test case694: 
+LinearTable: 21
+deque: 1
+
+Test case695: 
+LinearTable: 20
+deque: 2
+
+Test case696: 
+LinearTable: 20
+deque: 2
+
+Test case697: 
+LinearTable: 21
+deque: 2
+
+Test case698: 
+LinearTable: 21
+deque: 2
+
+Test case699: 
+LinearTable: 20
+deque: 2
+
+Test case700: 
+LinearTable: 21
+deque: 1
+
+Test case701: 
+LinearTable: 20
+deque: 2
+
+Test case702: 
+LinearTable: 20
+deque: 2
+
+Test case703: 
+LinearTable: 20
+deque: 2
+
+Test case704: 
+LinearTable: 21
+deque: 2
+
+Test case705: 
+LinearTable: 20
+deque: 2
+
+Test case706: 
+LinearTable: 20
+deque: 2
+
+Test case707: 
+LinearTable: 21
+deque: 1
+
+Test case708: 
+LinearTable: 20
+deque: 1
+
+Test case709: 
+LinearTable: 20
+deque: 2
+
+Test case710: 
+LinearTable: 21
+deque: 2
+
+Test case711: 
+LinearTable: 21
+deque: 2
+
+Test case712: 
+LinearTable: 21
+deque: 2
+
+Test case713: 
+LinearTable: 21
+deque: 1
+
+Test case714: 
+LinearTable: 20
+deque: 2
+
+Test case715: 
+LinearTable: 20
+deque: 2
+
+Test case716: 
+LinearTable: 20
+deque: 2
+
+Test case717: 
+LinearTable: 21
+deque: 2
+
+Test case718: 
+LinearTable: 20
+deque: 2
+
+Test case719: 
+LinearTable: 21
+deque: 2
+
+Test case720: 
+LinearTable: 21
+deque: 2
+
+Test case721: 
+LinearTable: 20
+deque: 2
+
+Test case722: 
+LinearTable: 21
+deque: 2
+
+Test case723: 
+LinearTable: 21
+deque: 2
+
+Test case724: 
+LinearTable: 20
+deque: 2
+
+Test case725: 
+LinearTable: 20
+deque: 2
+
+Test case726: 
+LinearTable: 21
+deque: 2
+
+Test case727: 
+LinearTable: 20
+deque: 2
+
+Test case728: 
+LinearTable: 21
+deque: 1
+
+Test case729: 
+LinearTable: 20
+deque: 2
+
+Test case730: 
+LinearTable: 23
+deque: 1
+
+Test case731: 
+LinearTable: 21
+deque: 2
+
+Test case732: 
+LinearTable: 21
+deque: 2
+
+Test case733: 
+LinearTable: 20
+deque: 1
+
+Test case734: 
+LinearTable: 20
+deque: 2
+
+Test case735: 
+LinearTable: 20
+deque: 2
+
+Test case736: 
+LinearTable: 20
+deque: 2
+
+Test case737: 
+LinearTable: 21
+deque: 1
+
+Test case738: 
+LinearTable: 20
+deque: 2
+
+Test case739: 
+LinearTable: 21
+deque: 2
+
+Test case740: 
+LinearTable: 20
+deque: 2
+
+Test case741: 
+LinearTable: 21
+deque: 1
+
+Test case742: 
+LinearTable: 21
+deque: 1
+
+Test case743: 
+LinearTable: 21
+deque: 1
+
+Test case744: 
+LinearTable: 21
+deque: 1
+
+Test case745: 
+LinearTable: 19
+deque: 2
+
+Test case746: 
+LinearTable: 21
+deque: 1
+
+Test case747: 
+LinearTable: 20
+deque: 2
+
+Test case748: 
+LinearTable: 21
+deque: 1
+
+Test case749: 
+LinearTable: 21
+deque: 2
+
+Test case750: 
+LinearTable: 20
+deque: 2
+
+Test case751: 
+LinearTable: 21
+deque: 2
+
+Test case752: 
+LinearTable: 21
+deque: 1
+
+Test case753: 
+LinearTable: 21
+deque: 1
+
+Test case754: 
+LinearTable: 21
+deque: 1
+
+Test case755: 
+LinearTable: 20
+deque: 2
+
+Test case756: 
+LinearTable: 20
+deque: 2
+
+Test case757: 
+LinearTable: 20
+deque: 2
+
+Test case758: 
+LinearTable: 19
+deque: 2
+
+Test case759: 
+LinearTable: 21
+deque: 2
+
+Test case760: 
+LinearTable: 21
+deque: 1
+
+Test case761: 
+LinearTable: 20
+deque: 2
+
+Test case762: 
+LinearTable: 21
+deque: 2
+
+Test case763: 
+LinearTable: 21
+deque: 1
+
+Test case764: 
+LinearTable: 21
+deque: 1
+
+Test case765: 
+LinearTable: 20
+deque: 2
+
+Test case766: 
+LinearTable: 21
+deque: 2
+
+Test case767: 
+LinearTable: 20
+deque: 2
+
+Test case768: 
+LinearTable: 21
+deque: 2
+
+Test case769: 
+LinearTable: 20
+deque: 2
+
+Test case770: 
+LinearTable: 20
+deque: 2
+
+Test case771: 
+LinearTable: 21
+deque: 1
+
+Test case772: 
+LinearTable: 20
+deque: 2
+
+Test case773: 
+LinearTable: 20
+deque: 2
+
+Test case774: 
+LinearTable: 20
+deque: 2
+
+Test case775: 
+LinearTable: 20
+deque: 1
+
+Test case776: 
+LinearTable: 20
+deque: 2
+
+Test case777: 
+LinearTable: 21
+deque: 1
+
+Test case778: 
+LinearTable: 20
+deque: 2
+
+Test case779: 
+LinearTable: 20
+deque: 2
+
+Test case780: 
+LinearTable: 20
+deque: 2
+
+Test case781: 
+LinearTable: 21
+deque: 1
+
+Test case782: 
+LinearTable: 20
+deque: 2
+
+Test case783: 
+LinearTable: 20
+deque: 1
+
+Test case784: 
+LinearTable: 21
+deque: 2
+
+Test case785: 
+LinearTable: 20
+deque: 2
+
+Test case786: 
+LinearTable: 20
+deque: 2
+
+Test case787: 
+LinearTable: 20
+deque: 2
+
+Test case788: 
+LinearTable: 20
+deque: 2
+
+Test case789: 
+LinearTable: 21
+deque: 1
+
+Test case790: 
+LinearTable: 22
+deque: 2
+
+Test case791: 
+LinearTable: 22
+deque: 2
+
+Test case792: 
+LinearTable: 21
+deque: 1
+
+Test case793: 
+LinearTable: 20
+deque: 2
+
+Test case794: 
+LinearTable: 20
+deque: 2
+
+Test case795: 
+LinearTable: 20
+deque: 1
+
+Test case796: 
+LinearTable: 20
+deque: 1
+
+Test case797: 
+LinearTable: 20
+deque: 2
+
+Test case798: 
+LinearTable: 20
+deque: 2
+
+Test case799: 
+LinearTable: 20
+deque: 2
+
+Test case800: 
+LinearTable: 20
+deque: 2
+
+Test case801: 
+LinearTable: 21
+deque: 2
+
+Test case802: 
+LinearTable: 20
+deque: 2
+
+Test case803: 
+LinearTable: 21
+deque: 2
+
+Test case804: 
+LinearTable: 20
+deque: 2
+
+Test case805: 
+LinearTable: 20
+deque: 2
+
+Test case806: 
+LinearTable: 20
+deque: 2
+
+Test case807: 
+LinearTable: 21
+deque: 2
+
+Test case808: 
+LinearTable: 19
+deque: 2
+
+Test case809: 
+LinearTable: 20
+deque: 2
+
+Test case810: 
+LinearTable: 21
+deque: 2
+
+Test case811: 
+LinearTable: 20
+deque: 2
+
+Test case812: 
+LinearTable: 21
+deque: 2
+
+Test case813: 
+LinearTable: 21
+deque: 2
+
+Test case814: 
+LinearTable: 20
+deque: 2
+
+Test case815: 
+LinearTable: 20
+deque: 2
+
+Test case816: 
+LinearTable: 21
+deque: 1
+
+Test case817: 
+LinearTable: 21
+deque: 2
+
+Test case818: 
+LinearTable: 20
+deque: 2
+
+Test case819: 
+LinearTable: 21
+deque: 2
+
+Test case820: 
+LinearTable: 20
+deque: 1
+
+Test case821: 
+LinearTable: 21
+deque: 2
+
+Test case822: 
+LinearTable: 20
+deque: 2
+
+Test case823: 
+LinearTable: 21
+deque: 2
+
+Test case824: 
+LinearTable: 21
+deque: 1
+
+Test case825: 
+LinearTable: 20
+deque: 2
+
+Test case826: 
+LinearTable: 20
+deque: 2
+
+Test case827: 
+LinearTable: 21
+deque: 2
+
+Test case828: 
+LinearTable: 21
+deque: 1
+
+Test case829: 
+LinearTable: 20
+deque: 2
+
+Test case830: 
+LinearTable: 20
+deque: 2
+
+Test case831: 
+LinearTable: 20
+deque: 2
+
+Test case832: 
+LinearTable: 19
+deque: 2
+
+Test case833: 
+LinearTable: 20
+deque: 2
+
+Test case834: 
+LinearTable: 20
+deque: 2
+
+Test case835: 
+LinearTable: 21
+deque: 2
+
+Test case836: 
+LinearTable: 20
+deque: 2
+
+Test case837: 
+LinearTable: 21
+deque: 2
+
+Test case838: 
+LinearTable: 21
+deque: 1
+
+Test case839: 
+LinearTable: 21
+deque: 2
+
+Test case840: 
+LinearTable: 21
+deque: 2
+
+Test case841: 
+LinearTable: 20
+deque: 2
+
+Test case842: 
+LinearTable: 20
+deque: 2
+
+Test case843: 
+LinearTable: 20
+deque: 2
+
+Test case844: 
+LinearTable: 21
+deque: 2
+
+Test case845: 
+LinearTable: 19
+deque: 2
+
+Test case846: 
+LinearTable: 20
+deque: 2
+
+Test case847: 
+LinearTable: 21
+deque: 1
+
+Test case848: 
+LinearTable: 20
+deque: 2
+
+Test case849: 
+LinearTable: 20
+deque: 2
+
+Test case850: 
+LinearTable: 21
+deque: 2
+
+Test case851: 
+LinearTable: 21
+deque: 2
+
+Test case852: 
+LinearTable: 20
+deque: 2
+
+Test case853: 
+LinearTable: 21
+deque: 2
+
+Test case854: 
+LinearTable: 21
+deque: 1
+
+Test case855: 
+LinearTable: 21
+deque: 2
+
+Test case856: 
+LinearTable: 21
+deque: 2
+
+Test case857: 
+LinearTable: 20
+deque: 1
+
+Test case858: 
+LinearTable: 21
+deque: 1
+
+Test case859: 
+LinearTable: 20
+deque: 2
+
+Test case860: 
+LinearTable: 21
+deque: 1
+
+Test case861: 
+LinearTable: 20
+deque: 2
+
+Test case862: 
+LinearTable: 21
+deque: 2
+
+Test case863: 
+LinearTable: 20
+deque: 2
+
+Test case864: 
+LinearTable: 21
+deque: 2
+
+Test case865: 
+LinearTable: 20
+deque: 2
+
+Test case866: 
+LinearTable: 20
+deque: 2
+
+Test case867: 
+LinearTable: 20
+deque: 2
+
+Test case868: 
+LinearTable: 21
+deque: 2
+
+Test case869: 
+LinearTable: 20
+deque: 2
+
+Test case870: 
+LinearTable: 19
+deque: 2
+
+Test case871: 
+LinearTable: 21
+deque: 1
+
+Test case872: 
+LinearTable: 21
+deque: 2
+
+Test case873: 
+LinearTable: 21
+deque: 2
+
+Test case874: 
+LinearTable: 20
+deque: 2
+
+Test case875: 
+LinearTable: 20
+deque: 2
+
+Test case876: 
+LinearTable: 21
+deque: 2
+
+Test case877: 
+LinearTable: 21
+deque: 2
+
+Test case878: 
+LinearTable: 21
+deque: 2
+
+Test case879: 
+LinearTable: 21
+deque: 1
+
+Test case880: 
+LinearTable: 20
+deque: 2
+
+Test case881: 
+LinearTable: 20
+deque: 2
+
+Test case882: 
+LinearTable: 19
+deque: 3
+
+Test case883: 
+LinearTable: 21
+deque: 2
+
+Test case884: 
+LinearTable: 21
+deque: 2
+
+Test case885: 
+LinearTable: 21
+deque: 1
+
+Test case886: 
+LinearTable: 20
+deque: 2
+
+Test case887: 
+LinearTable: 21
+deque: 2
+
+Test case888: 
+LinearTable: 21
+deque: 2
+
+Test case889: 
+LinearTable: 21
+deque: 2
+
+Test case890: 
+LinearTable: 20
+deque: 2
+
+Test case891: 
+LinearTable: 20
+deque: 2
+
+Test case892: 
+LinearTable: 20
+deque: 2
+
+Test case893: 
+LinearTable: 21
+deque: 2
+
+Test case894: 
+LinearTable: 21
+deque: 1
+
+Test case895: 
+LinearTable: 20
+deque: 1
+
+Test case896: 
+LinearTable: 20
+deque: 2
+
+Test case897: 
+LinearTable: 21
+deque: 2
+
+Test case898: 
+LinearTable: 21
+deque: 1
+
+Test case899: 
+LinearTable: 21
+deque: 2
+
+Test case900: 
+LinearTable: 20
+deque: 2
+
+Test case901: 
+LinearTable: 21
+deque: 2
+
+Test case902: 
+LinearTable: 20
+deque: 2
+
+Test case903: 
+LinearTable: 21
+deque: 1
+
+Test case904: 
+LinearTable: 21
+deque: 2
+
+Test case905: 
+LinearTable: 21
+deque: 2
+
+Test case906: 
+LinearTable: 20
+deque: 2
+
+Test case907: 
+LinearTable: 20
+deque: 2
+
+Test case908: 
+LinearTable: 20
+deque: 2
+
+Test case909: 
+LinearTable: 21
+deque: 1
+
+Test case910: 
+LinearTable: 21
+deque: 2
+
+Test case911: 
+LinearTable: 21
+deque: 1
+
+Test case912: 
+LinearTable: 20
+deque: 2
+
+Test case913: 
+LinearTable: 21
+deque: 2
+
+Test case914: 
+LinearTable: 20
+deque: 2
+
+Test case915: 
+LinearTable: 20
+deque: 2
+
+Test case916: 
+LinearTable: 21
+deque: 2
+
+Test case917: 
+LinearTable: 21
+deque: 2
+
+Test case918: 
+LinearTable: 21
+deque: 1
+
+Test case919: 
+LinearTable: 20
+deque: 2
+
+Test case920: 
+LinearTable: 20
+deque: 1
+
+Test case921: 
+LinearTable: 20
+deque: 2
+
+Test case922: 
+LinearTable: 20
+deque: 2
+
+Test case923: 
+LinearTable: 20
+deque: 1
+
+Test case924: 
+LinearTable: 20
+deque: 2
+
+Test case925: 
+LinearTable: 20
+deque: 2
+
+Test case926: 
+LinearTable: 21
+deque: 2
+
+Test case927: 
+LinearTable: 20
+deque: 2
+
+Test case928: 
+LinearTable: 20
+deque: 2
+
+Test case929: 
+LinearTable: 21
+deque: 2
+
+Test case930: 
+LinearTable: 21
+deque: 2
+
+Test case931: 
+LinearTable: 21
+deque: 2
+
+Test case932: 
+LinearTable: 21
+deque: 1
+
+Test case933: 
+LinearTable: 20
+deque: 2
+
+Test case934: 
+LinearTable: 20
+deque: 2
+
+Test case935: 
+LinearTable: 21
+deque: 1
+
+Test case936: 
+LinearTable: 21
+deque: 1
+
+Test case937: 
+LinearTable: 20
+deque: 2
+
+Test case938: 
+LinearTable: 21
+deque: 1
+
+Test case939: 
+LinearTable: 21
+deque: 1
+
+Test case940: 
+LinearTable: 20
+deque: 2
+
+Test case941: 
+LinearTable: 21
+deque: 1
+
+Test case942: 
+LinearTable: 20
+deque: 2
+
+Test case943: 
+LinearTable: 20
+deque: 2
+
+Test case944: 
+LinearTable: 20
+deque: 1
+
+Test case945: 
+LinearTable: 20
+deque: 2
+
+Test case946: 
+LinearTable: 20
+deque: 2
+
+Test case947: 
+LinearTable: 21
+deque: 2
+
+Test case948: 
+LinearTable: 20
+deque: 2
+
+Test case949: 
+LinearTable: 20
+deque: 2
+
+Test case950: 
+LinearTable: 21
+deque: 2
+
+Test case951: 
+LinearTable: 21
+deque: 2
+
+Test case952: 
+LinearTable: 21
+deque: 2
+
+Test case953: 
+LinearTable: 21
+deque: 1
+
+Test case954: 
+LinearTable: 20
+deque: 2
+
+Test case955: 
+LinearTable: 21
+deque: 2
+
+Test case956: 
+LinearTable: 21
+deque: 1
+
+Test case957: 
+LinearTable: 20
+deque: 2
+
+Test case958: 
+LinearTable: 19
+deque: 2
+
+Test case959: 
+LinearTable: 21
+deque: 1
+
+Test case960: 
+LinearTable: 20
+deque: 2
+
+Test case961: 
+LinearTable: 20
+deque: 2
+
+Test case962: 
+LinearTable: 21
+deque: 1
+
+Test case963: 
+LinearTable: 20
+deque: 2
+
+Test case964: 
+LinearTable: 20
+deque: 2
+
+Test case965: 
+LinearTable: 20
+deque: 2
+
+Test case966: 
+LinearTable: 21
+deque: 1
+
+Test case967: 
+LinearTable: 20
+deque: 2
+
+Test case968: 
+LinearTable: 20
+deque: 2
+
+Test case969: 
+LinearTable: 20
+deque: 2
+
+Test case970: 
+LinearTable: 19
+deque: 2
+
+Test case971: 
+LinearTable: 21
+deque: 2
+
+Test case972: 
+LinearTable: 21
+deque: 2
+
+Test case973: 
+LinearTable: 20
+deque: 1
+
+Test case974: 
+LinearTable: 20
+deque: 2
+
+Test case975: 
+LinearTable: 21
+deque: 2
+
+Test case976: 
+LinearTable: 20
+deque: 2
+
+Test case977: 
+LinearTable: 21
+deque: 2
+
+Test case978: 
+LinearTable: 21
+deque: 1
+
+Test case979: 
+LinearTable: 21
+deque: 2
+
+Test case980: 
+LinearTable: 20
+deque: 2
+
+Test case981: 
+LinearTable: 21
+deque: 2
+
+Test case982: 
+LinearTable: 20
+deque: 3
+
+Test case983: 
+LinearTable: 20
+deque: 2
+
+Test case984: 
+LinearTable: 21
+deque: 1
+
+Test case985: 
+LinearTable: 21
+deque: 2
+
+Test case986: 
+LinearTable: 20
+deque: 2
+
+Test case987: 
+LinearTable: 21
+deque: 2
+
+Test case988: 
+LinearTable: 21
+deque: 2
+
+Test case989: 
+LinearTable: 21
+deque: 2
+
+Test case990: 
+LinearTable: 21
+deque: 2
+
+Test case991: 
+LinearTable: 21
+deque: 1
+
+Test case992: 
+LinearTable: 20
+deque: 2
+
+Test case993: 
+LinearTable: 21
+deque: 1
+
+Test case994: 
+LinearTable: 20
+deque: 2
+
+Test case995: 
+LinearTable: 19
+deque: 2
+
+Test case996: 
+LinearTable: 20
+deque: 2
+
+Test case997: 
+LinearTable: 21
+deque: 1
+
+Test case998: 
+LinearTable: 21
+deque: 1
+
+Test case999: 
+LinearTable: 21
+deque: 2
+
+Test case1000: 
+LinearTable: 21
+deque: 2
+
